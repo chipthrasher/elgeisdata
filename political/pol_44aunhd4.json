@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_44aunhd4",
   "properties": {
-    "name": "Vostok",
+    "name": "Contested Territory",
     "label": "",
-    "entities": ["Vostok"],
+    "entities": ["Vostok", "Lososha"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {
