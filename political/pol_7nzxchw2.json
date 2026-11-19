@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pol_7nzxchw2",
+  "properties": {
+    "color": "#930a0c",
+    "notes": "Traced from politicalold.jpg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [3318, 5372],
+        [3296, 5423],
+        [3296, 5496],
+        [3524, 5496],
+        [3524, 5460],
+        [3450, 5408],
+        [3421, 5372],
+        [3384, 5357],
+        [3333, 5357],
+        [3318, 5372]
+      ]
+    ]
+  }
+}

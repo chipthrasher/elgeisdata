@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pol_j860pf7o",
+  "properties": {
+    "color": "#edebee",
+    "name": "RSV",
+    "notes": "Traced from politicalold.jpg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-818, 2776],
+        [-942, 2776],
+        [-957, 2790],
+        [-957, 3076],
+        [-942, 3091],
+        [-884, 3091],
+        [-869, 3032],
+        [-810, 3018],
+        [-818, 2776]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pol_gjwiguto",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "notes": "Traced from politicalold.jpg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [2636, -1492],
+        [2578, -1456],
+        [2563, -1426],
+        [2563, -1382],
+        [2600, -1331],
+        [2673, -1316],
+        [2724, -1346],
+        [2746, -1412],
+        [2732, -1456],
+        [2680, -1492],
+        [2636, -1492]
+      ]
+    ]
+  }
+}

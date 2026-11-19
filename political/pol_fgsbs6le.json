@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pol_fgsbs6le",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "notes": "Traced from politicalold.jpg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [1646, 2988],
+        [1778, 2996],
+        [1874, 2930],
+        [1837, 2900],
+        [1756, 2900],
+        [1712, 2886],
+        [1661, 2922],
+        [1646, 2952],
+        [1646, 2988]
+      ]
+    ]
+  }
+}

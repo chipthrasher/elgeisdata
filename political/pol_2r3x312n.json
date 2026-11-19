@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pol_2r3x312n",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "notes": "Traced from politicalold.jpg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [2519, 847],
+        [2519, 898],
+        [2548, 920],
+        [2622, 891],
+        [2622, 854],
+        [2592, 818],
+        [2548, 818],
+        [2519, 847]
+      ]
+    ]
+  }
+}
