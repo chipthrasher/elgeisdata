@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_aqlmnu7q",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Hveiti"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [156, -310]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [156, -310],
+          [156, -300]
+        ]
+      }
+    ]
+  }
+}

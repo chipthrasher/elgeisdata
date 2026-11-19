@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_yskqwbcq",
+  "properties": {
+    "description": "East Syltheim is home to the famous Tea Garden, as well as many residences, government buildings, and mountainous forests",
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_3pf6po3v",
+    "name": "East Syltheim",
+    "wiki": "https://wiki.elgeis.com/wiki/Syltheim"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-338, -134]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-338, -134],
+          [-364, -134]
+        ]
+      }
+    ]
+  }
+}

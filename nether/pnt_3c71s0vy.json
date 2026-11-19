@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_3c71s0vy",
+  "properties": {
+    "line": "lin_d6g2dax2",
+    "name": "Finger Monument"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [158, 455]
+  }
+}

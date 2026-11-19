@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_ep8li886",
+  "properties": {
+    "description": "700 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-700, 700],
+      [700, 700]
+    ]
+  }
+}

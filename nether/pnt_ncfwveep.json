@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_ncfwveep",
+  "properties": {
+    "entity": "ent_d1w9buvt",
+    "line": "lin_wyhjuh4u",
+    "name": "Cyperspire",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-130, 516]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-130, 516],
+          [-100, 516]
+        ]
+      }
+    ]
+  }
+}

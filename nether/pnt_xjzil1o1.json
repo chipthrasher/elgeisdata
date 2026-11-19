@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_xjzil1o1",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Old Stoako"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-138, -270]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-138, -270],
+          [-138, -300]
+        ]
+      }
+    ]
+  }
+}

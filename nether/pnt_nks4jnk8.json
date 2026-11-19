@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pnt_nks4jnk8",
+  "properties": {
+    "name": "Tsagaan Mori"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-201, -539]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-201, -539],
+          [-201, -500]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_nznsfcjz",
+  "properties": {
+    "description": "Suburb of Goomtown",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_i14qc3cf",
+    "name": "Cattlehead",
+    "wiki": "https://wiki.elgeis.com/wiki/Cattlehead"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [44, -45]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [44, -45],
+          [46, -45]
+        ]
+      }
+    ]
+  }
+}

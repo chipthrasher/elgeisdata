@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_23pye7a8",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Lil Floppa Islands"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-169, -300]
+  }
+}

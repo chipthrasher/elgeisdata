@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_93ref6wq",
+  "properties": {
+    "entity": "ent_r7mgdxx2",
+    "line": "lin_gijbdrc1",
+    "name": "La Nordomontojo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-46, 324]
+  }
+}

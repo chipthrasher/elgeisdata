@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_un8jn4ou",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Samloka"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [59, -311]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [59, -311],
+          [59, -300]
+        ]
+      }
+    ]
+  }
+}

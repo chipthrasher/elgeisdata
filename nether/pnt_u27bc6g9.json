@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_u27bc6g9",
+  "properties": {
+    "description": "Welcome to Elgeis!",
+    "entity": "ent_6gv2dr0i",
+    "name": "Spawn",
+    "wiki": "https://wiki.elgeis.com/wiki/Overworld"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-30, 15]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-30, 15],
+          [-30, 0]
+        ]
+      }
+    ]
+  }
+}

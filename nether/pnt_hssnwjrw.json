@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_hssnwjrw",
+  "properties": {
+    "description": "Small community built in an ancient canal",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_i14qc3cf",
+    "name": "Shawtyville",
+    "wiki": "https://wiki.elgeis.com/wiki/Voidnest#Landmarks"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [37, -56]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [37, -56],
+          [46, -56]
+        ]
+      }
+    ]
+  }
+}

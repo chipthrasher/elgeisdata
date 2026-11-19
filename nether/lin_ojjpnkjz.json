@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_ojjpnkjz",
+  "properties": {
+    "description": "Azrainir's eastern vertical"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [441, 100],
+      [441, 150]
+    ]
+  }
+}

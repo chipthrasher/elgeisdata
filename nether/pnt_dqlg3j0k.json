@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_dqlg3j0k",
+  "properties": {
+    "entity": "ent_aco86z93",
+    "name": "Boš"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [129, -105]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [129, -105],
+          [129, -100]
+        ]
+      }
+    ]
+  }
+}

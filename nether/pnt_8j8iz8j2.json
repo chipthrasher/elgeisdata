@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_8j8iz8j2",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "Bingus Province"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-191, -346]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-191, -346],
+          [-200, -346]
+        ]
+      }
+    ]
+  }
+}

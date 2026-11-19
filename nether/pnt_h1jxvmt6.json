@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_h1jxvmt6",
+  "properties": {
+    "entity": "ent_tndxrat0",
+    "line": "lin_ojjpnkjz",
+    "name": "Super Azrainiri Raid System"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [435, 106]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [435, 106],
+          [441, 106]
+        ]
+      }
+    ]
+  }
+}

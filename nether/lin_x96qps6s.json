@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_x96qps6s",
+  "properties": {
+    "description": "Spoingus vertical (secondary)"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-389, 355],
+      [-389, 400]
+    ]
+  }
+}

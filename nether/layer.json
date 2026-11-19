@@ -1,0 +1,68 @@
+{
+  "id": "nether",
+  "dimension": "nether",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "reference",
+      "key": "entity",
+      "label": "Political entity"
+    },
+    {
+      "type": "reference",
+      "key": "line",
+      "label": "Inner line"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "url",
+      "key": "wiki",
+      "label": "Wiki"
+    },
+    {
+      "type": "flag",
+      "description": "This is the official exit for its nation or political entity.",
+      "icon": "flag",
+      "key": "national",
+      "label": "National exit",
+      "ring": true
+    },
+    {
+      "type": "flag",
+      "description": "This exit leads to a public-access End Portal.",
+      "icon": "aperture",
+      "key": "end",
+      "label": "End portal"
+    },
+    {
+      "type": "flag",
+      "description": "This exit is designated as an official IBWH site.",
+      "icon": "book",
+      "key": "ibwh",
+      "label": "IBWH site"
+    },
+    {
+      "type": "text",
+      "icon": "alert",
+      "key": "warning",
+      "label": "Warning"
+    },
+    {
+      "type": "flag",
+      "description": "One of the main highway lines.",
+      "key": "main",
+      "label": "Main line"
+    }
+  ],
+  "name": "Nether Highway",
+  "official": true,
+  "titleField": "name"
+}

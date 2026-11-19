@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "pnt_wkiajmz9",
+  "properties": {
+    "description": "Residence of MilkedCat1225",
+    "entity": "ent_82y2qbiy",
+    "line": "lin_mjerrrul",
+    "name": "LaitChat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [381, 431]
+  }
+}

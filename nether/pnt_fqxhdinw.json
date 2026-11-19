@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_fqxhdinw",
+  "properties": {
+    "description": "The capital of Wohlstand",
+    "entity": "ent_pm22mu14",
+    "name": "Jaumarn",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [13, -298]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [13, -298],
+          [13, -300]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_q3j3pzl0",
+  "properties": {
+    "description": "Montrose vertical west"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-187, 0],
+      [-187, -74]
+    ]
+  }
+}

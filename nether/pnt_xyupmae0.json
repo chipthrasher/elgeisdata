@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_xyupmae0",
+  "properties": {
+    "description": "Southern enclave of HUM",
+    "entity": "ent_eg58x41r",
+    "name": "East Taiga",
+    "wiki": "https://wiki.elgeis.com/wiki/Tautona"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [193, 189]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [193, 189],
+          [200, 189]
+        ]
+      }
+    ]
+  }
+}

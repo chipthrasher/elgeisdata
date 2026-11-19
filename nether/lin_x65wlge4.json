@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_x65wlge4",
+  "properties": {
+    "description": "300 North",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, -300],
+      [700, -300]
+    ]
+  }
+}

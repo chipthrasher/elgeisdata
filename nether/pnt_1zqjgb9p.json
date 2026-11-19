@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_1zqjgb9p",
+  "properties": {
+    "description": "Residence of Katawicz",
+    "entity": "ent_7fj4s2t6",
+    "name": "Hybrasil"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-231, 348]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-231, 348],
+          [-200, 348]
+        ]
+      }
+    ]
+  }
+}

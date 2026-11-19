@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_us68rgjr",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Ozan Home Island"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-353, 226]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-353, 226],
+          [-353, 200]
+        ]
+      }
+    ]
+  }
+}

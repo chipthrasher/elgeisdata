@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_37h5b9j7",
+  "properties": {
+    "entity": "ent_r7mgdxx2",
+    "name": "Olsen's Landing"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [220, -407]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [220, -407],
+          [220, -400]
+        ]
+      }
+    ]
+  }
+}

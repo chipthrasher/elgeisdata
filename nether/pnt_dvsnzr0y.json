@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_dvsnzr0y",
+  "properties": {
+    "description": "Capital of Ilyria",
+    "entity": "ent_s9zbic26",
+    "name": "Ilyria",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [250, 565]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [250, 565],
+          [250, 600]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_gx8uuia9",
+  "properties": {
+    "entity": "ent_0068pnvf",
+    "name": "Saru Totem Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-209, 273]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-209, 273],
+          [-200, 273]
+        ]
+      }
+    ]
+  }
+}

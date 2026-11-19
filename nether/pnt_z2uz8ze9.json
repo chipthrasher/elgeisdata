@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_z2uz8ze9",
+  "properties": {
+    "entity": "ent_koee0je5",
+    "name": "The Eye of Zara",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [121, -625]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [121, -625],
+          [121, -600]
+        ]
+      }
+    ]
+  }
+}

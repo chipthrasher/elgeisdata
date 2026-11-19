@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_7qu3jowr",
+  "properties": {
+    "description": "Residence of FinFaux",
+    "entity": "ent_99obkvvl",
+    "name": "Fauxford"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-203, -265]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-203, -265],
+          [-200, -265]
+        ]
+      }
+    ]
+  }
+}

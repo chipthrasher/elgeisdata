@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_dyp29k0o",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "HUM Pillager Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [331, -178]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [331, -178],
+          [331, -200]
+        ]
+      }
+    ]
+  }
+}

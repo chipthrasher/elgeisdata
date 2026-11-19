@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_5ej5122g",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "Hilmirburg"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-305, -149]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-305, -149],
+          [-300, -149]
+        ]
+      }
+    ]
+  }
+}

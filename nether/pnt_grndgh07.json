@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_grndgh07",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Creenis"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [297, -282]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [297, -282],
+          [300, -282]
+        ]
+      }
+    ]
+  }
+}

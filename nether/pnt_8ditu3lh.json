@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_8ditu3lh",
+  "properties": {
+    "entity": "ent_tndxrat0",
+    "name": "Riochtai na nGael",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [406, -26]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [406, -26],
+          [400, -26]
+        ]
+      }
+    ]
+  }
+}

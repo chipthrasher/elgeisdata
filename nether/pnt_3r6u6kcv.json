@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_3r6u6kcv",
+  "properties": {
+    "description": "Residence of Coolnut10",
+    "entity": "ent_eg58x41r",
+    "name": "Tautona"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [208, 214]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [208, 214],
+          [200, 214]
+        ]
+      }
+    ]
+  }
+}

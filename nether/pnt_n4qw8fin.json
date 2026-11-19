@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_n4qw8fin",
+  "properties": {
+    "description": "The capital of Azrainir",
+    "entity": "ent_tndxrat0",
+    "line": "lin_5r8e7ufw",
+    "name": "Grunebáðehæmr"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [366, 158]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [366, 158],
+          [360, 158]
+        ]
+      }
+    ]
+  }
+}

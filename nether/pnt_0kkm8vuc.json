@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_0kkm8vuc",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "Ragako"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-288, -136]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-288, -136],
+          [-300, -136]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_x27svj8d",
+  "properties": {
+    "description": "Central N/S",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [0, -500],
+      [0, 700]
+    ]
+  }
+}

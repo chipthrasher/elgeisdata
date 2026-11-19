@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_eo91lzit",
+  "properties": {
+    "description": "Formerly Drakaniru",
+    "entity": "ent_7fj4s2t6",
+    "name": "Aetergarten",
+    "wiki": "https://wiki.elgeis.com/wiki/Drakaniru"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [282, 434]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [282, 434],
+          [300, 434]
+        ]
+      }
+    ]
+  }
+}

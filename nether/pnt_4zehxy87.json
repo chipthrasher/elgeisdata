@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_4zehxy87",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Rhett Island",
+    "wiki": "https://wiki.elgeis.com/wiki/Rhett"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-37, 78]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-37, 78],
+          [-37, 100]
+        ]
+      }
+    ]
+  }
+}

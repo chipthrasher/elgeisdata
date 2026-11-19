@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_qtfptii0",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Oostland"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [355, -55]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [355, -55],
+          [355, -100]
+        ]
+      }
+    ]
+  }
+}

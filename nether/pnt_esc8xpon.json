@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_esc8xpon",
+  "properties": {
+    "entity": "ent_dwyvzf20",
+    "name": "Squink Square"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [295, -105]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [295, -105],
+          [295, -100]
+        ]
+      }
+    ]
+  }
+}

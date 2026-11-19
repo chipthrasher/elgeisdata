@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_gujaheuk",
+  "properties": {
+    "description": "300 East",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [300, -600],
+      [300, 700]
+    ]
+  }
+}

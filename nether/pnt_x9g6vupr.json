@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pnt_x9g6vupr",
+  "properties": {
+    "name": "Kumosenso"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [416, -249]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [416, -249],
+          [400, -249]
+        ]
+      }
+    ]
+  }
+}

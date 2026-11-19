@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_ih5wqyds",
+  "properties": {
+    "description": "Estate of Kacnea",
+    "entity": "ent_ppka60rp",
+    "name": "Maractus"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [34, -124]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [34, -124],
+          [34, -100]
+        ]
+      }
+    ]
+  }
+}

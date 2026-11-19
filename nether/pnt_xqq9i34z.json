@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_xqq9i34z",
+  "properties": {
+    "description": "The capital of the Redania region",
+    "entity": "ent_eg58x41r",
+    "name": "Zolotow"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-32, -235]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-32, -235],
+          [0, -235]
+        ]
+      }
+    ]
+  }
+}

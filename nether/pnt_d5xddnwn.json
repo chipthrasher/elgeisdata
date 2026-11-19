@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pnt_d5xddnwn",
+  "properties": {
+    "name": "Creepvania"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-439, -199]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-439, -199],
+          [-439, -200]
+        ]
+      }
+    ]
+  }
+}

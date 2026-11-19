@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_4tpzavnq",
+  "properties": {
+    "description": "The capital of Askar",
+    "entity": "ent_pm22mu14",
+    "name": "Arkavollur"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-318, -281]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-318, -281],
+          [-300, -281]
+        ]
+      }
+    ]
+  }
+}

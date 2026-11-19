@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_2p520tr2",
+  "properties": {
+    "entity": "ent_r7mgdxx2",
+    "line": "lin_moq34oo3",
+    "name": "Lateria"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-19, 345]
+  }
+}

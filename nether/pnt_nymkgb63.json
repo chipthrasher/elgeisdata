@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_nymkgb63",
+  "properties": {
+    "description": "The wasteland of the original capital of Nyania",
+    "entity": "ent_pm22mu14",
+    "hidden": true,
+    "name": "Gateway City"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [104, -228]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [104, -228],
+          [100, -228]
+        ]
+      }
+    ]
+  }
+}

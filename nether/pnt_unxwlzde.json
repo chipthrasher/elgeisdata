@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_unxwlzde",
+  "properties": {
+    "description": "A city in Banapo",
+    "entity": "ent_ppka60rp",
+    "name": "Vijver"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [25, -109]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [25, -109],
+          [25, -100]
+        ]
+      }
+    ]
+  }
+}

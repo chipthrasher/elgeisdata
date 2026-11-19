@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_ngmci7l7",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_fxn3p4po",
+    "name": "Ebonglow Nexus",
+    "wiki": "https://wiki.elgeis.com/wiki/MELT"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-239, 415]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-239, 415],
+          [-232, 415]
+        ]
+      }
+    ]
+  }
+}

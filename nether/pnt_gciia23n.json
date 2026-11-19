@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_gciia23n",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Fenvyran Capital City"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-153, -227]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-153, -227],
+          [-153, -200]
+        ]
+      }
+    ]
+  }
+}

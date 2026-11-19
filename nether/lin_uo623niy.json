@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_uo623niy",
+  "properties": {
+    "description": "200 East",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [200, -600],
+      [200, 700]
+    ]
+  }
+}

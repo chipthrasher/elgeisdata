@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "pnt_jiv81h8h",
+  "properties": {
+    "description": "Former suburb of Goomtown and residence of Saashin",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_lgq614x2",
+    "name": "Jaune"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [66, -3]
+  }
+}

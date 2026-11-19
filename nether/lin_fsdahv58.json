@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_fsdahv58",
+  "properties": {
+    "description": "Montrose horizontal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-187, -74],
+      [-65, -74]
+    ]
+  }
+}

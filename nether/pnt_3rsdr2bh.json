@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_3rsdr2bh",
+  "properties": {
+    "entity": "ent_aco86z93",
+    "name": "Oberos",
+    "wiki": "https://wiki.elgeis.com/wiki/Drift"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [209, -93]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [209, -93],
+          [209, -100]
+        ]
+      }
+    ]
+  }
+}

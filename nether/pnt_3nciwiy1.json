@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_3nciwiy1",
+  "properties": {
+    "entity": "ent_1cn6rylg",
+    "line": "lin_wtziyovs",
+    "name": "Shaxia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [259, -254]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [259, -254],
+          [259, -200]
+        ]
+      }
+    ]
+  }
+}

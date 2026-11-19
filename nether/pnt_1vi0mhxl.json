@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_1vi0mhxl",
+  "properties": {
+    "description": "Residence of MedimaNN",
+    "entity": "ent_zgh0lmsb",
+    "name": "Glavnaya",
+    "national": true,
+    "wiki": "https://wiki.elgeis.com/wiki/Vanskovich"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-239, 29]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-239, 29],
+          [-239, 0]
+        ]
+      }
+    ]
+  }
+}

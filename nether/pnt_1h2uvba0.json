@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_1h2uvba0",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "New Stoako"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-289, -455]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-289, -455],
+          [-300, -455]
+        ]
+      }
+    ]
+  }
+}

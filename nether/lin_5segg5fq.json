@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_5segg5fq",
+  "properties": {
+    "description": "Goom horizontal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [0, -35],
+      [100, -35]
+    ]
+  }
+}

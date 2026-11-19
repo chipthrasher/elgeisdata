@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_gu01azas",
+  "properties": {
+    "description": "Residence of Lucyinthesky127",
+    "entity": "ent_z2fbmgte",
+    "name": "Comus"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [342, -333]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [342, -333],
+          [342, -300]
+        ]
+      }
+    ]
+  }
+}

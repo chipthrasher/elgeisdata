@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_ezxe22ce",
+  "properties": {
+    "description": "Formerly known as the Sylvian Federal Province",
+    "entity": "ent_eg58x41r",
+    "name": "Etel Metsia",
+    "wiki": "https://wiki.elgeis.com/wiki/Sylvian_Union"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-104, 5]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-104, 5],
+          [-100, 5]
+        ]
+      }
+    ]
+  }
+}

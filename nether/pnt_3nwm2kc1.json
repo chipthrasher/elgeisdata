@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_3nwm2kc1",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "line": "lin_x27svj8d",
+    "name": "Dottia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-48, -355]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-48, -355],
+          [0, -355]
+        ]
+      }
+    ]
+  }
+}

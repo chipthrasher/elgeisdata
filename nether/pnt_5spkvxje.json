@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_5spkvxje",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Noviskalija Undercity"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [221, -353]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [221, -353],
+          [200, -353]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_rx96bxe5",
+  "properties": {
+    "description": "Nyania, Shen noko & unidentified one"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [164, -228],
+      [164, -140]
+    ]
+  }
+}

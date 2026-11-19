@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_zwctt5j7",
+  "properties": {
+    "description": "Residence of BeholdTheCheese",
+    "name": "Cheeseton"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [362, -211]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [362, -211],
+          [362, -200]
+        ]
+      }
+    ]
+  }
+}

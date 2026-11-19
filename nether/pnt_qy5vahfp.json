@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_qy5vahfp",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Notos Imperial Island"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [216, 155]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [216, 155],
+          [200, 155]
+        ]
+      }
+    ]
+  }
+}

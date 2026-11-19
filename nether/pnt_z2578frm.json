@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_z2578frm",
+  "properties": {
+    "description": "Commander's Offshore Operations Platform, now abandoned",
+    "name": "COOP"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [257, -60]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [257, -60],
+          [257, -100]
+        ]
+      }
+    ]
+  }
+}

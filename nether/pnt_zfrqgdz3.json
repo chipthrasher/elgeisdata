@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_zfrqgdz3",
+  "properties": {
+    "entity": "ent_rdev9boq",
+    "name": "Astria"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [467, 367]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [467, 367],
+          [467, 400]
+        ]
+      }
+    ]
+  }
+}

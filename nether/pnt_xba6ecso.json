@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_xba6ecso",
+  "properties": {
+    "entity": "ent_aco86z93",
+    "name": "Obios Northern Claim"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [225, -186]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [225, -186],
+          [225, -200]
+        ]
+      }
+    ]
+  }
+}

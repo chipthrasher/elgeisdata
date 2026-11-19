@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_y3lsvepi",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Illyrdom"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [3, 179]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [3, 179],
+          [0, 179]
+        ]
+      }
+    ]
+  }
+}

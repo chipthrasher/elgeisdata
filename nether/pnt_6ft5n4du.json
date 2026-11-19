@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_6ft5n4du",
+  "properties": {
+    "entity": "ent_82y2qbiy",
+    "line": "lin_er6l4x7k",
+    "name": "Wolvden"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [557, 624]
+  }
+}

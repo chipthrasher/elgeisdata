@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_kunuyiw2",
+  "properties": {
+    "entity": "ent_tndxrat0",
+    "name": "Gabeford 2.0"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [414, 88]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [414, 88],
+          [414, 100]
+        ]
+      }
+    ]
+  }
+}

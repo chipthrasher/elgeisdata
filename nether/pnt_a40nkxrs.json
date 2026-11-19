@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_a40nkxrs",
+  "properties": {
+    "description": "Residence of Pawnch_",
+    "entity": "ent_aco86z93",
+    "name": "Ša'amponi",
+    "wiki": "https://wiki.elgeis.com/wiki/Championis"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [178, -74]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [178, -74],
+          [200, -74]
+        ]
+      }
+    ]
+  }
+}

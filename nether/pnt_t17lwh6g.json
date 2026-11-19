@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_t17lwh6g",
+  "properties": {
+    "description": "Formerly known as Hunger Games Island",
+    "entity": "ent_eg58x41r",
+    "name": "Brave Island"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-58, 182]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-58, 182],
+          [-58, 200]
+        ]
+      }
+    ]
+  }
+}

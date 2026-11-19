@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_xszkdydh",
+  "properties": {
+    "description": "Vailan's capital",
+    "entity": "ent_eg58x41r",
+    "name": "Fjall",
+    "wiki": "https://wiki.elgeis.com/wiki/Kingdom_of_Vailan"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-120, -169]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-120, -169],
+          [-100, -169]
+        ]
+      }
+    ]
+  }
+}

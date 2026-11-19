@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_unlt0sl4",
+  "properties": {
+    "entity": "ent_k16j0vrf",
+    "name": "Redstone Valley Ocean Monument"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-97, 376]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-97, 376],
+          [-100, 376]
+        ]
+      }
+    ]
+  }
+}

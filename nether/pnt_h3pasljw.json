@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_h3pasljw",
+  "properties": {
+    "description": "Residence of awesome_ketchup",
+    "entity": "ent_s7c9igsq",
+    "name": "Soleii Islands"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [143, 56]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [143, 56],
+          [100, 56]
+        ]
+      }
+    ]
+  }
+}

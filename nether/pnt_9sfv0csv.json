@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_9sfv0csv",
+  "properties": {
+    "description": "Formerly known as Duo Cognate",
+    "entity": "ent_d11h2gn1",
+    "name": "Novenchenna",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-479, 566]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-479, 566],
+          [-500, 566]
+        ]
+      }
+    ]
+  }
+}

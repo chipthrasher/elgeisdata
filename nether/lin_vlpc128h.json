@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_vlpc128h",
+  "properties": {
+    "description": "Nyania, totally unnecessary one to south bohdanburg"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [16, -260],
+      [16, -240]
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_wtziyovs",
+  "properties": {
+    "description": "200 North",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, -200],
+      [700, -200]
+    ]
+  }
+}

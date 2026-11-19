@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_mea37h32",
+  "properties": {
+    "description": "Portal for the cities of Orth, New Orth, and Kitakafu",
+    "entity": "ent_eg58x41r",
+    "name": "New Orth"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [87, -215]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [87, -215],
+          [100, -215]
+        ]
+      }
+    ]
+  }
+}

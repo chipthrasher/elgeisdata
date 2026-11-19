@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_ph6s64xs",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Polar Island"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [38, -440]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [38, -440],
+          [0, -440]
+        ]
+      }
+    ]
+  }
+}

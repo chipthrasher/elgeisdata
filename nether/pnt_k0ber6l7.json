@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_k0ber6l7",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "line": "lin_x27svj8d",
+    "name": "Holan"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-26, -385]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-26, -385],
+          [0, -385]
+        ]
+      }
+    ]
+  }
+}

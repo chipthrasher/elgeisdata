@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_3tds6h19",
+  "properties": {
+    "description": "700 East",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [700, -600],
+      [700, 700]
+    ]
+  }
+}

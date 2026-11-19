@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_m2zj58kf",
+  "properties": {
+    "description": "200 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 200],
+      [700, 200]
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_a0jei32e",
+  "properties": {
+    "description": "Nyania, melakiras tower, corner connector"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [92, -228],
+      [92, -248]
+    ]
+  }
+}

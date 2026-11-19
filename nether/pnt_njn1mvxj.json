@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_njn1mvxj",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "line": "lin_x27svj8d",
+    "name": "Gjoren"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-33, -328]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-33, -328],
+          [0, -328]
+        ]
+      }
+    ]
+  }
+}

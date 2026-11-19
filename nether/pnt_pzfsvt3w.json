@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_pzfsvt3w",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Ozan Prison Island",
+    "warning": "Private portal, likely trapped"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-298, 249]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-298, 249],
+          [-300, 249]
+        ]
+      }
+    ]
+  }
+}

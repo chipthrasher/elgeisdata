@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_tnxug5ke",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Lindisfarne"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [120, -313]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [120, -313],
+          [120, -300]
+        ]
+      }
+    ]
+  }
+}

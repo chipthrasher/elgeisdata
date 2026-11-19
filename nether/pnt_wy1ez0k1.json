@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_wy1ez0k1",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "line": "lin_x96qps6s",
+    "name": "South Irkjat"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-388, 374]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-388, 374],
+          [-389, 374]
+        ]
+      }
+    ]
+  }
+}

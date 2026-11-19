@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_qkssx3f7",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "line": "lin_0j1det6o",
+    "name": "New Spruceville"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [225, 268]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [225, 268],
+          [225, 266]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_ojmsv04a",
+  "properties": {
+    "description": "Vostok's capital",
+    "entity": "ent_0068pnvf",
+    "name": "Vladivostok",
+    "national": true,
+    "wiki": "https://wiki.elgeis.com/wiki/Vostok"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [142, 203]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [142, 203],
+          [142, 200]
+        ]
+      }
+    ]
+  }
+}

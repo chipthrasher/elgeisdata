@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_xb9bqnh9",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "North Shore"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-94, -414]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-94, -414],
+          [-100, -414]
+        ]
+      }
+    ]
+  }
+}

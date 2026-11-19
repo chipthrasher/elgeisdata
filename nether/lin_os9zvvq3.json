@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_os9zvvq3",
+  "properties": {
+    "description": "400 West",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-400, -500],
+      [-400, 600]
+    ]
+  }
+}

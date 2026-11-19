@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_vtkv7i3e",
+  "properties": {
+    "description": "400 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 400],
+      [700, 400]
+    ]
+  }
+}

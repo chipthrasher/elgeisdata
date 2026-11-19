@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_yz6pfkgc",
+  "properties": {
+    "entity": "ent_edapiu8h",
+    "line": "lin_rb7en1gi",
+    "name": "North Irkjat"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-353, 360]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_j7k0uxbo",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "line": "lin_egq19q1u",
+    "name": "Church"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [44, -239]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [44, -239],
+          [44, -248]
+        ]
+      }
+    ]
+  }
+}

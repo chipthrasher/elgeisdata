@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_jevawv6o",
+  "properties": {
+    "description": "Capital of the UAC",
+    "entity": "ent_2ggtvoez",
+    "name": "North Point",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [266, -606]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [266, -606],
+          [266, -600]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_rb7en1gi",
+  "properties": {
+    "description": "Spoingus vertical (main)"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-353, 300],
+      [-353, 400]
+    ]
+  }
+}

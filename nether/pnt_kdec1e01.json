@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_kdec1e01",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Sanctuary Isle"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-293, 203]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-293, 203],
+          [-293, 200]
+        ]
+      }
+    ]
+  }
+}

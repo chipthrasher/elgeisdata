@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_yk41t0tb",
+  "properties": {
+    "description": "Services the southern portion of the Nyanian Province of Greater Bohdanburg.",
+    "entity": "ent_pm22mu14",
+    "line": "lin_vlpc128h",
+    "name": "Greater Bohdanburg South"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [21, -240]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [21, -240],
+          [16, -240]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_accu7uk1",
+  "properties": {
+    "description": "Nyania, serenity peak"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [136, -228],
+      [136, -200]
+    ]
+  }
+}

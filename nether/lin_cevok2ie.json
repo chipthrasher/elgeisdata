@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_cevok2ie",
+  "properties": {
+    "description": "300 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 300],
+      [700, 300]
+    ]
+  }
+}

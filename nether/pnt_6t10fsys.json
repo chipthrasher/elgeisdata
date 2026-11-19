@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_6t10fsys",
+  "properties": {
+    "description": "The main district of the former estate of Wind.",
+    "entity": "ent_1cn6rylg",
+    "line": "lin_wtziyovs",
+    "name": "Main District of Central Wind"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [290, -151]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [290, -151],
+          [290, -200]
+        ]
+      }
+    ]
+  }
+}

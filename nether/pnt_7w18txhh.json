@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_7w18txhh",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Lososha Village"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [203, -388]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [203, -388],
+          [200, -388]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_4fi53ht1",
+  "properties": {
+    "description": "Emerald Enclave vertical"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-357, -300],
+      [-357, -200]
+    ]
+  }
+}

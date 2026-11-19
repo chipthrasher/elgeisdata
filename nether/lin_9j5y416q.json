@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_9j5y416q",
+  "properties": {
+    "description": "B & I"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [164, 200],
+      [164, 300]
+    ]
+  }
+}

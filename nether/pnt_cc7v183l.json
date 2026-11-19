@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_cc7v183l",
+  "properties": {
+    "entity": "ent_dwyvzf20",
+    "name": "Seicho Town"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [295, -95]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [295, -95],
+          [295, -100]
+        ]
+      }
+    ]
+  }
+}

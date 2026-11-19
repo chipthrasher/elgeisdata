@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_21yqbozq",
+  "properties": {
+    "description": "Former residence of Flint_Westwood_",
+    "entity": "ent_eg58x41r",
+    "name": "Flont's Town"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-105, -276]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-105, -276],
+          [-100, -276]
+        ]
+      }
+    ]
+  }
+}

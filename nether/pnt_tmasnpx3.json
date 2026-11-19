@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_tmasnpx3",
+  "properties": {
+    "description": "Schevakia's capital",
+    "entity": "ent_eg58x41r",
+    "name": "Schenektengrad",
+    "wiki": "https://wiki.elgeis.com/wiki/Schevakia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [56, 193]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [56, 193],
+          [56, 200]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_cyfguwq0",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Dej Prjnkei"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [10, -364]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [10, -364],
+          [0, -364]
+        ]
+      }
+    ]
+  }
+}

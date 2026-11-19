@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_mib2koke",
+  "properties": {
+    "line": "lin_4fi53ht1",
+    "name": "Goomlandian Spruce Wood Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-374, -276]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-374, -276],
+          [-357, -276]
+        ]
+      }
+    ]
+  }
+}

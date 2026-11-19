@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_6xnxjmfk",
+  "properties": {
+    "line": "lin_os9zvvq3",
+    "name": "Northern Aradialma"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-408, -436]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-408, -436],
+          [-400, -436]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_moq34oo3",
+  "properties": {
+    "description": "Right obios"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-19, 300],
+      [-19, 370]
+    ]
+  }
+}

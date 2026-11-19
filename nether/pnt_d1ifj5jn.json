@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_d1ifj5jn",
+  "properties": {
+    "description": "The Montrosian estate of Mus1cb0x",
+    "entity": "ent_7fj4s2t6",
+    "name": "Ozolkrasts"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-230, 5]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-230, 5],
+          [-230, 0]
+        ]
+      }
+    ]
+  }
+}

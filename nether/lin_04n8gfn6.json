@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_04n8gfn6",
+  "properties": {
+    "description": "Spoingus horizontal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-400, 355],
+      [-353, 355]
+    ]
+  }
+}

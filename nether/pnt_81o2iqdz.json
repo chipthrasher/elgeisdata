@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "id": "pnt_81o2iqdz",
+  "properties": {
+    "description": "The capital city of Emeraldia",
+    "entity": "ent_edapiu8h",
+    "line": "lin_cevok2ie",
+    "name": "Emerald Bay",
+    "national": true,
+    "wiki": "https://wiki.elgeis.com/wiki/Emerald_Bay"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-289, 348]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-289, 348],
+          [-289, 300]
+        ]
+      }
+    ]
+  }
+}

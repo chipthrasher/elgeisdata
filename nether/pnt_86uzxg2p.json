@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_86uzxg2p",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Banksy Bunker"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [335, 368]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [335, 368],
+          [335, 400]
+        ]
+      }
+    ]
+  }
+}

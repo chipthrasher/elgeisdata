@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_r4tf03kx",
+  "properties": {
+    "description": "Colony of H0PLlTE's estate",
+    "entity": "ent_n3fle3cl",
+    "line": "lin_ugqprgsx",
+    "name": "Anjunis"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-172, -321]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-172, -321],
+          [-200, -321]
+        ]
+      }
+    ]
+  }
+}

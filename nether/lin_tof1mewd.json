@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_tof1mewd",
+  "properties": {
+    "description": "100 East",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [100, -500],
+      [100, 700]
+    ]
+  }
+}

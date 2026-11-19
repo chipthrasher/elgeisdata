@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_n9zm2wlc",
+  "properties": {
+    "description": "Central E/W",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 0],
+      [515, 0]
+    ]
+  }
+}

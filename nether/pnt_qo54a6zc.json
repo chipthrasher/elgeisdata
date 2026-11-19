@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_qo54a6zc",
+  "properties": {
+    "description": "Voidnestian castle built by coblue",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_i14qc3cf",
+    "name": "the grey sanctum",
+    "wiki": "https://wiki.elgeis.com/wiki/Voidnest#Landmarks"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [44, -76]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [44, -76],
+          [46, -76]
+        ]
+      }
+    ]
+  }
+}

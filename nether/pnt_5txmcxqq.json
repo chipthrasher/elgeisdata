@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_5txmcxqq",
+  "properties": {
+    "description": "Formerly the Atlantis portal",
+    "entity": "ent_0068pnvf",
+    "name": "Inko Jungle"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-187, 223]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-187, 223],
+          [-200, 223]
+        ]
+      }
+    ]
+  }
+}

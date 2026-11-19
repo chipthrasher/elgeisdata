@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_fc8nbhtn",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "line": "lin_04n8gfn6",
+    "name": "Auckaneck"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-367, 355]
+  }
+}

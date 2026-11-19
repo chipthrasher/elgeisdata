@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_30tz2dl8",
+  "properties": {
+    "description": "A former part of Threesodas's estate of Wind",
+    "entity": "ent_1cn6rylg",
+    "name": "Swamp Wind"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [268, -168]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [268, -168],
+          [268, -200]
+        ]
+      }
+    ]
+  }
+}

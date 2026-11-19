@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_t4tocfo4",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "ibwh": true,
+    "line": "lin_v03ib5qm",
+    "name": "Fort Graham Area",
+    "wiki": "https://wiki.elgeis.com/wiki/Fort_Graham"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-78, -91]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-78, -91],
+          [-82, -91]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_078o6y63",
+  "properties": {
+    "entity": "ent_k16j0vrf",
+    "name": "Bialya"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [249, 335]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [249, 335],
+          [249, 300]
+        ]
+      }
+    ]
+  }
+}

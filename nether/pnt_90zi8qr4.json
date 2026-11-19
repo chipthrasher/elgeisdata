@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_90zi8qr4",
+  "properties": {
+    "description": "Residence of camaradultudor",
+    "entity": "ent_a00487dl",
+    "name": "Sitári",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-352, 7]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-352, 7],
+          [-352, 0]
+        ]
+      }
+    ]
+  }
+}

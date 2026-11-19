@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_m8tbatrr",
+  "properties": {
+    "description": "400 North",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, -400],
+      [700, -400]
+    ]
+  }
+}

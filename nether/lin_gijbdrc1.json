@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_gijbdrc1",
+  "properties": {
+    "description": "Middle obios"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-46, 300],
+      [-46, 370]
+    ]
+  }
+}

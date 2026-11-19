@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "lin_fxn3p4po",
+  "properties": {},
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-232, 430],
+      [-232, 400]
+    ]
+  }
+}

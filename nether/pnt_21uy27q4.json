@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_21uy27q4",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Pixie Stix"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-490, -436]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-490, -436],
+          [-490, -400]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_9cg7k78q",
+  "properties": {
+    "entity": "ent_82y2qbiy",
+    "name": "Pain"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [483, 481]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [483, 481],
+          [500, 481]
+        ]
+      }
+    ]
+  }
+}

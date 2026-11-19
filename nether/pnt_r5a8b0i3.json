@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "id": "pnt_r5a8b0i3",
+  "properties": {
+    "description": "Former capital of Voidnest",
+    "entity": "ent_s7c9igsq",
+    "ibwh": true,
+    "line": "lin_i14qc3cf",
+    "name": "Voidmouth",
+    "wiki": "https://wiki.elgeis.com/wiki/Voidnest#Landmarks"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [52, -57]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [52, -57],
+          [46, -57]
+        ]
+      }
+    ]
+  }
+}

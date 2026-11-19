@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "pnt_1sa4t27a",
+  "properties": {
+    "description": "Suburb of Goomtown and residence of Grooge64",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_5segg5fq",
+    "name": "Champignon",
+    "wiki": "https://wiki.elgeis.com/wiki/Champignon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [85, -35]
+  }
+}

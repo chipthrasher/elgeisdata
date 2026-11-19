@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_u8m5c94e",
+  "properties": {
+    "description": "500 East",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [500, -700],
+      [500, 700]
+    ]
+  }
+}

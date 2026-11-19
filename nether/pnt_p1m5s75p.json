@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_p1m5s75p",
+  "properties": {
+    "description": "The tiny island of the country of Tree",
+    "entity": "ent_s7c9igsq",
+    "name": "Tree"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [347, 207]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [347, 207],
+          [347, 200]
+        ]
+      }
+    ]
+  }
+}

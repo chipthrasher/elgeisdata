@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_sma80gen",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "MaLleuad's Gift"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-142, 16]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-142, 16],
+          [-142, 0]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_lgq614x2",
+  "properties": {
+    "description": "Goom Jaune line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [66, -35],
+      [66, 0]
+    ]
+  }
+}

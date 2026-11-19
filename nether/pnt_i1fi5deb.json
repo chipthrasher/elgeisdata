@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_i1fi5deb",
+  "properties": {
+    "description": "A former Fauxford territory",
+    "entity": "ent_99obkvvl",
+    "line": "lin_ugqprgsx",
+    "name": "Ballford"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-235, -413]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-235, -413],
+          [-200, -413]
+        ]
+      }
+    ]
+  }
+}

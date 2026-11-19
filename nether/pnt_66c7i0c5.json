@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_66c7i0c5",
+  "properties": {
+    "description": "A village on the island of Jarn Saari",
+    "entity": "ent_pm22mu14",
+    "line": "lin_wyhjuh4u",
+    "name": "Wohlsteinn"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-110, 290]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-110, 290],
+          [-100, 290]
+        ]
+      }
+    ]
+  }
+}

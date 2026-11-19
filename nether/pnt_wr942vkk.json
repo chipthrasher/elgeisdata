@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_wr942vkk",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Northbay",
+    "wiki": "https://wiki.elgeis.com/wiki/Northbay"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-60, 251]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-60, 251],
+          [-100, 251]
+        ]
+      }
+    ]
+  }
+}

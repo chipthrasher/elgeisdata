@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_c8ssgsb7",
+  "properties": {
+    "description": "Residence of Sunflame1155",
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_fsdahv58",
+    "name": "Sunflame's Estate"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-130, -77]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-130, -77],
+          [-130, -74]
+        ]
+      }
+    ]
+  }
+}

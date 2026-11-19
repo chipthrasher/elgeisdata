@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_ugqprgsx",
+  "properties": {
+    "description": "200 West",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-200, -537],
+      [-200, 520]
+    ]
+  }
+}

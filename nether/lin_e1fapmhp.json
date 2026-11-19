@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_e1fapmhp",
+  "properties": {
+    "description": "Nyania, big horizontal one"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [92, -228],
+      [200, -228]
+    ]
+  }
+}

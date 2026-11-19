@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_6cf2ra7k",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Krabbatoah"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [309, -262]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [309, -262],
+          [300, -262]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_pcdlzsz5",
+  "properties": {
+    "description": "Azrainir Industrial District",
+    "entity": "ent_tndxrat0",
+    "line": "lin_5r8e7ufw",
+    "name": "AIDS"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [369, 134]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [369, 134],
+          [360, 134]
+        ]
+      }
+    ]
+  }
+}

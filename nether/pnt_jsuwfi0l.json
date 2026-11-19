@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_jsuwfi0l",
+  "properties": {
+    "description": "Public End portal maintained by Goomlandia",
+    "end": true,
+    "entity": "ent_s7c9igsq",
+    "name": "Goomlandian End Portal"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [241, -22]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [241, -22],
+          [241, 0]
+        ]
+      }
+    ]
+  }
+}

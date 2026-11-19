@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_e3wfl338",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Kamp Klubb"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-67, -297]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-67, -297],
+          [-67, -300]
+        ]
+      }
+    ]
+  }
+}

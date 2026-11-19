@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_h8xle2z7",
+  "properties": {
+    "entity": "ent_0068pnvf",
+    "name": "Lazarica"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [156, 120]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [156, 120],
+          [156, 100]
+        ]
+      }
+    ]
+  }
+}

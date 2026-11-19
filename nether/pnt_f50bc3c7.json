@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_f50bc3c7",
+  "properties": {
+    "description": "Former residence of SleepingNinja60",
+    "entity": "ent_eg58x41r",
+    "name": "SquishMellow"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [342, -26]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [342, -26],
+          [342, 0]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_v03ib5qm",
+  "properties": {
+    "description": "Montrose vertical"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-82, -118],
+      [-82, 0]
+    ]
+  }
+}

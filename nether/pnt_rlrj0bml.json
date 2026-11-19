@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_rlrj0bml",
+  "properties": {
+    "description": "Nelt portal to the Montrosian embassy to RnanG.",
+    "entity": "ent_tndxrat0",
+    "name": "Baile Úr Mháfat"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [480, 29]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [480, 29],
+          [500, 29]
+        ]
+      }
+    ]
+  }
+}

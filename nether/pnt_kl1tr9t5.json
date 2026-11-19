@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_kl1tr9t5",
+  "properties": {
+    "description": "Residence of argetlam04",
+    "entity": "ent_eg58x41r",
+    "name": "Iris",
+    "wiki": "https://wiki.elgeis.com/wiki/Iris"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-96, -53]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-96, -53],
+          [-100, -53]
+        ]
+      }
+    ]
+  }
+}

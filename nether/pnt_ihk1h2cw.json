@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_ihk1h2cw",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "hidden": true,
+    "name": "Bardum Industrial District"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-77, -253]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-77, -253],
+          [-100, -253]
+        ]
+      }
+    ]
+  }
+}

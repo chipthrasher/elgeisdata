@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_l6jq80aj",
+  "properties": {
+    "description": "The Montrosian estate of Brewton",
+    "entity": "ent_7fj4s2t6",
+    "name": "Brewton"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-217, -97]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-217, -97],
+          [-217, -100]
+        ]
+      }
+    ]
+  }
+}

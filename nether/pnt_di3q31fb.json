@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_di3q31fb",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Strahdova",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [94, -136]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [94, -136],
+          [100, -136]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pnt_4z91sq3x",
+  "properties": {
+    "name": "Nubzieland"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [402, -304]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [402, -304],
+          [400, -304]
+        ]
+      }
+    ]
+  }
+}

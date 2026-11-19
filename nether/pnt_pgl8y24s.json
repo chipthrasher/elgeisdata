@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_pgl8y24s",
+  "properties": {
+    "entity": "ent_n3fle3cl",
+    "name": "Dingus Province"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-192, -320]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-192, -320],
+          [-200, -320]
+        ]
+      }
+    ]
+  }
+}

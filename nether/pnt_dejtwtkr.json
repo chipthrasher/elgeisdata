@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_dejtwtkr",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "hidden": true,
+    "name": "Volarian Creeper Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [91, -196]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [91, -196],
+          [91, -200]
+        ]
+      }
+    ]
+  }
+}

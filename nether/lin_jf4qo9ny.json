@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_jf4qo9ny",
+  "properties": {
+    "description": "600 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 600],
+      [700, 600]
+    ]
+  }
+}

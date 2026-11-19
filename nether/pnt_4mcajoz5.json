@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_4mcajoz5",
+  "properties": {
+    "description": "Fianna's capital",
+    "entity": "ent_eg58x41r",
+    "line": "lin_sjdvnu8l",
+    "name": "Dwarf Island",
+    "wiki": "https://wiki.elgeis.com/wiki/Fianna"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [6, 33]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [6, 33],
+          [6, 36]
+        ]
+      }
+    ]
+  }
+}

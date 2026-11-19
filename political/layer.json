@@ -1,0 +1,29 @@
+{
+  "id": "political",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "color",
+      "key": "color",
+      "label": "Color"
+    },
+    {
+      "type": "reference",
+      "key": "entity",
+      "label": "Nation"
+    },
+    {
+      "type": "url",
+      "key": "wiki",
+      "label": "Wiki"
+    }
+  ],
+  "name": "Political Map",
+  "official": true,
+  "titleField": "name"
+}

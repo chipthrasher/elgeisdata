@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_g2y15i76",
+  "properties": {
+    "description": "Main portal for the Estates of Serenity Peak. Located within mejackmac's estate.",
+    "entity": "ent_3nkujhkq",
+    "line": "lin_e1fapmhp",
+    "name": "Serenity Peak"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [130, -225]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [130, -225],
+          [130, -228]
+        ]
+      }
+    ]
+  }
+}

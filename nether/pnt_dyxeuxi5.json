@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_dyxeuxi5",
+  "properties": {
+    "description": "Current headquarters of the IBWH, formerly a country led by Erjan101",
+    "entity": "ent_0068pnvf",
+    "name": "Tsarevets",
+    "wiki": "https://wiki.elgeis.com/wiki/Compendium_of_Server_History_(Text)#Tsarevets"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [97, 117]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [97, 117],
+          [100, 117]
+        ]
+      }
+    ]
+  }
+}

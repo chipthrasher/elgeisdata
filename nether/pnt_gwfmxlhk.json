@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_gwfmxlhk",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Wohsahill Archipelago"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-110, -460]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-110, -460],
+          [-100, -460]
+        ]
+      }
+    ]
+  }
+}

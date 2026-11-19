@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "pnt_jqe030f5",
+  "properties": {
+    "description": "Northern half of B&I",
+    "entity": "ent_pm22mu14",
+    "line": "lin_9j5y416q",
+    "name": "Baguette",
+    "wiki": "https://wiki.elgeis.com/wiki/Baguette_%26_Inquisition"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [164, 245]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_tfxd8qb9",
+  "properties": {
+    "description": "Formerly affiliated with Pirate Bay",
+    "entity": "ent_edapiu8h",
+    "name": "Precipice"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-363, 489]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-363, 489],
+          [-363, 500]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_5r8e7ufw",
+  "properties": {
+    "description": "Azrainir's original vertical"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [360, 100],
+      [360, 158]
+    ]
+  }
+}

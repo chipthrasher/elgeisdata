@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_vxn4a6nj",
+  "properties": {
+    "description": "An End Portal maintained by Drasfor",
+    "end": true,
+    "entity": "ent_9b92iimd",
+    "name": "Drasforian End Portal"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-20, -653]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-20, -653],
+          [-20, -600]
+        ]
+      }
+    ]
+  }
+}

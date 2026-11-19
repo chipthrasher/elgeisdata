@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_dt8te0k5",
+  "properties": {
+    "entity": "ent_edapiu8h",
+    "name": "Farmronesia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-310, 304]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-310, 304],
+          [-310, 300]
+        ]
+      }
+    ]
+  }
+}

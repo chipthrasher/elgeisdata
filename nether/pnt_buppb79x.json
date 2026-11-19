@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_buppb79x",
+  "properties": {
+    "description": "The abandoned fort of Solace",
+    "name": "Solace"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-224, 125]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-224, 125],
+          [-200, 125]
+        ]
+      }
+    ]
+  }
+}

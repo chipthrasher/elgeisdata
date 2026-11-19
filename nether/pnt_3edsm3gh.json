@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_3edsm3gh",
+  "properties": {
+    "entity": "ent_z2fbmgte",
+    "name": "Granitea"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [292, -455]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [292, -455],
+          [300, -455]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "pnt_3s1qg4uh",
+  "properties": {
+    "description": "Formerly Windiya Capitol Building",
+    "line": "lin_ztxn0oy0",
+    "name": "Angterulvandansk",
+    "wiki": "https://wiki.elgeis.com/wiki/Windiya"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [215, 391]
+  }
+}

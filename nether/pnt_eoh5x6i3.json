@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_eoh5x6i3",
+  "properties": {
+    "description": "Elgeis's first maximum-height build",
+    "entity": "ent_eg58x41r",
+    "name": "Tower of Babel",
+    "wiki": "https://wiki.elgeis.com/wiki/Kingdom_of_Vailan#Further_expansion.2C_Alliances._.286.2F26.2F2019-7.2F11.2F2019.29"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [96, -175]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [96, -175],
+          [100, -175]
+        ]
+      }
+    ]
+  }
+}

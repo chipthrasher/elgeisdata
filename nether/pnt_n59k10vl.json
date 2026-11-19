@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_n59k10vl",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "name": "Vailan Pillager Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-146, -330]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-146, -330],
+          [-146, -300]
+        ]
+      }
+    ]
+  }
+}

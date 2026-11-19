@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_heggyhez",
+  "properties": {
+    "description": "MTJNC's prismarine farm",
+    "entity": "ent_ppka60rp",
+    "name": "Rapture Prismarine Farm"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [84, 291]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [84, 291],
+          [84, 300]
+        ]
+      }
+    ]
+  }
+}

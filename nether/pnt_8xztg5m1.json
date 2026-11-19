@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_8xztg5m1",
+  "properties": {
+    "entity": "ent_r7mgdxx2",
+    "line": "lin_lenaidmf",
+    "name": "Igpay Obiosway"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-59, 370]
+  }
+}

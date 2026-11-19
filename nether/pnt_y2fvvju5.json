@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_y2fvvju5",
+  "properties": {
+    "description": "Residence of Informal__",
+    "entity": "ent_pm22mu14",
+    "name": "Kupun Kukoj",
+    "wiki": "https://wiki.elgeis.com/wiki/Askar"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-291, -271]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-291, -271],
+          [-300, -271]
+        ]
+      }
+    ]
+  }
+}

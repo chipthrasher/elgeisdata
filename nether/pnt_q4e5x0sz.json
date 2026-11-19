@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_q4e5x0sz",
+  "properties": {
+    "entity": "ent_k16j0vrf",
+    "line": "lin_qvdoeo27",
+    "name": "Very Big Observatory"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [39, 105]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [39, 105],
+          [39, 110]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_31w31xbq",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Fynuu"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [135, -351]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [135, -351],
+          [100, -351]
+        ]
+      }
+    ]
+  }
+}

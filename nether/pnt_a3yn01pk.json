@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_a3yn01pk",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "Vejākraštis",
+    "warning": "Windland"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-195, -95]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-195, -95],
+          [-195, -100]
+        ]
+      }
+    ]
+  }
+}

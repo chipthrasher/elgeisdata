@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_i4eh5fm1",
+  "properties": {
+    "entity": "ent_aco86z93",
+    "name": "Tym"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [202, -134]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [202, -134],
+          [200, -134]
+        ]
+      }
+    ]
+  }
+}

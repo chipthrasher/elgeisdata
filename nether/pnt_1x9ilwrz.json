@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_1x9ilwrz",
+  "properties": {
+    "description": "The western border of Montrose, right by a bridge to Syltheim",
+    "entity": "ent_7fj4s2t6",
+    "name": "Anterflauthutia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-265, -89]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-265, -89],
+          [-265, -100]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_vuxgqz7u",
+  "properties": {
+    "description": "A strange ocean base to the south of Rhett",
+    "entity": "ent_eg58x41r",
+    "name": "HP-01 “Beluga”"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-50, 108]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-50, 108],
+          [-50, 100]
+        ]
+      }
+    ]
+  }
+}

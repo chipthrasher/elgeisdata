@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_egq19q1u",
+  "properties": {
+    "description": "Nyania, western horizontal one"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [0, -248],
+      [100, -248]
+    ]
+  }
+}

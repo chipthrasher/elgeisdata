@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_t0kgwi6r",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "line": "lin_a0jei32e",
+    "name": "Melakira's Tower"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [90, -233]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [90, -233],
+          [92, -233]
+        ]
+      }
+    ]
+  }
+}

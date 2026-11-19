@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_bf04ziqw",
+  "properties": {
+    "line": "lin_pc8z6atv",
+    "name": "Windiya",
+    "wiki": "https://wiki.elgeis.com/wiki/Windiya"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [168, 424]
+  }
+}

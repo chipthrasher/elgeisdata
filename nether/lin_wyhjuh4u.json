@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_wyhjuh4u",
+  "properties": {
+    "description": "100 West",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-100, -500],
+      [-100, 519]
+    ]
+  }
+}

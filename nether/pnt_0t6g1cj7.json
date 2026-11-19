@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_0t6g1cj7",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "line": "lin_egq19q1u",
+    "name": "Statue of jpbeecher"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [76, -247]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [76, -247],
+          [76, -248]
+        ]
+      }
+    ]
+  }
+}

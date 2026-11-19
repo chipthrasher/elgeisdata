@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_1106fecq",
+  "properties": {
+    "entity": "ent_k16j0vrf",
+    "line": "lin_qvdoeo27",
+    "name": "Nature Publishing"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [25, 105]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [25, 105],
+          [25, 110]
+        ]
+      }
+    ]
+  }
+}

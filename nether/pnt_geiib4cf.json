@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_geiib4cf",
+  "properties": {
+    "entity": "ent_7fj4s2t6",
+    "name": "Old Cascadia"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-180, -39]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-180, -39],
+          [-200, -39]
+        ]
+      }
+    ]
+  }
+}

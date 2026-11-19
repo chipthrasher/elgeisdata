@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_l1ylp2fg",
+  "properties": {
+    "entity": "ent_dwyvzf20",
+    "name": "Sacramento Business Center"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [305, -105]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [305, -105],
+          [305, -100]
+        ]
+      }
+    ]
+  }
+}

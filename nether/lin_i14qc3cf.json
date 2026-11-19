@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_i14qc3cf",
+  "properties": {
+    "description": "Goom vertical"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [46, -100],
+      [46, 0]
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_sj3xv2zv",
+  "properties": {
+    "entity": "ent_1cn6rylg",
+    "line": "lin_rx96bxe5",
+    "name": "Istamor"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [164, -219]
+  }
+}

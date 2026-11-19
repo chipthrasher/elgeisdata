@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_havwu2os",
+  "properties": {
+    "description": "Montrose horizontal west, for Gold District"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-215, -39],
+      [-180, -39]
+    ]
+  }
+}

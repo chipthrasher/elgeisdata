@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "pnt_r3e43gub",
+  "properties": {
+    "description": "Residence of Strider112358",
+    "entity": "ent_k16j0vrf",
+    "line": "lin_4fi53ht1",
+    "name": "Emerald Enclave",
+    "wiki": "https://wiki.elgeis.com/wiki/Emerald_Enclave"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-357, -292]
+  }
+}

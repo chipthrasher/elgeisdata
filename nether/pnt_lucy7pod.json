@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_lucy7pod",
+  "properties": {
+    "entity": "ent_ba87cbsb",
+    "name": "Green Glaive Point",
+    "national": true
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [619, 544]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [619, 544],
+          [600, 544]
+        ]
+      }
+    ]
+  }
+}

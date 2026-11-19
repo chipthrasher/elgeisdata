@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_xogq1xdz",
+  "properties": {
+    "entity": "ent_1cn6rylg",
+    "name": "Oxonly"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [324, -100]
+  }
+}

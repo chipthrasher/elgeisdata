@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_jotb6uos",
+  "properties": {
+    "description": "100 South",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-500, 100],
+      [700, 100]
+    ]
+  }
+}

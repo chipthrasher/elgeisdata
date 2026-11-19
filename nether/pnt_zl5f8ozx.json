@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_zl5f8ozx",
+  "properties": {
+    "entity": "ent_r7mgdxx2",
+    "name": "Castor"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [118, 354]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [118, 354],
+          [100, 354]
+        ]
+      }
+    ]
+  }
+}

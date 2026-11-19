@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "pnt_28gkek1q",
+  "properties": {
+    "description": "Goomlandia's capital",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_5segg5fq",
+    "name": "Goomtown",
+    "national": true,
+    "wiki": "https://wiki.elgeis.com/wiki/Goomtown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [44, -35]
+  }
+}

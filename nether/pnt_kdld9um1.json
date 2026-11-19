@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "id": "pnt_kdld9um1",
+  "properties": {
+    "description": "Former Prosperity League headquarters",
+    "entity": "ent_eg58x41r",
+    "line": "lin_v03ib5qm",
+    "name": "PLHQ Inn",
+    "wiki": "https://wiki.elgeis.com/wiki/Prosperity_League"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-63, -25]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-63, -25],
+          [-82, -25]
+        ]
+      }
+    ]
+  }
+}

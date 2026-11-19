@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_qxr72dsl",
+  "properties": {
+    "entity": "ent_pm22mu14",
+    "name": "Wohlstandic Desert Settlement"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-111, -316]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-111, -316],
+          [-100, -316]
+        ]
+      }
+    ]
+  }
+}

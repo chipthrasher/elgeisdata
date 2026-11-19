@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_v97ysyye",
+  "properties": {
+    "description": "600 North",
+    "main": true
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-300, -600],
+      [700, -600]
+    ]
+  }
+}

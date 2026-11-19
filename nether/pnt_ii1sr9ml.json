@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_ii1sr9ml",
+  "properties": {
+    "entity": "ent_edapiu8h",
+    "name": "Adfelis",
+    "wiki": "https://wiki.elgeis.com/wiki/Adfelis"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [78, 428]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [78, 428],
+          [100, 428]
+        ]
+      }
+    ]
+  }
+}

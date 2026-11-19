@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_4os3h389",
+  "properties": {
+    "description": "Estate of pikachu_mgh",
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_fsdahv58",
+    "name": "Osteau"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-169, -71]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-169, -71],
+          [-169, -74]
+        ]
+      }
+    ]
+  }
+}

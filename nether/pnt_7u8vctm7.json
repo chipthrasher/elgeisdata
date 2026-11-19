@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "pnt_7u8vctm7",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "line": "lin_v03ib5qm",
+    "name": "Montrosian Tree Farm & Horse Breeding Stables"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-79, -45]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-79, -45],
+          [-82, -45]
+        ]
+      }
+    ]
+  }
+}

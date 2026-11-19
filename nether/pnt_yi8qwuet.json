@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_yi8qwuet",
+  "properties": {
+    "entity": "ent_eg58x41r",
+    "line": "lin_0j1det6o",
+    "name": "Minas Tirith"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [277, 266]
+  }
+}

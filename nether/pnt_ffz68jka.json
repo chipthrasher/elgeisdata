@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "id": "pnt_ffz68jka",
+  "properties": {
+    "description": "An iconic build by olimcpants and former residence of Endossi",
+    "entity": "ent_7fj4s2t6",
+    "hidden": true,
+    "line": "lin_fsdahv58",
+    "name": "Burger",
+    "wiki": "https://wiki.elgeis.com/wiki/BurgerBomb%E2%84%A2%EF%B8%8F"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-144, -61]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-144, -61],
+          [-144, -74]
+        ]
+      }
+    ]
+  }
+}

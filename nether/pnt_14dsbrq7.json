@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_14dsbrq7",
+  "properties": {
+    "description": "The personal island of Taming_Ocelots",
+    "entity": "ent_s7c9igsq",
+    "line": "lin_m2zj58kf",
+    "name": "Briza"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [287, 151]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [287, 151],
+          [287, 200]
+        ]
+      }
+    ]
+  }
+}

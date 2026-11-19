@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_sn2mb0io",
+  "properties": {
+    "description": "Home to Chipt's house and the Chiptown Metro station",
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_fsdahv58",
+    "name": "Chiptown Metro"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [-130, -59]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [-130, -59],
+          [-130, -74]
+        ]
+      }
+    ]
+  }
+}

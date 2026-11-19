@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pnt_faz5pjan",
+  "properties": {
+    "description": "Southern half of B&I",
+    "entity": "ent_pm22mu14",
+    "line": "lin_9j5y416q",
+    "name": "Inquisition"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [149, 283]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [149, 283],
+          [164, 283]
+        ]
+      }
+    ]
+  }
+}

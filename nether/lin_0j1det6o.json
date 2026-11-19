@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_0j1det6o",
+  "properties": {
+    "description": "East Taiga horizontal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [200, 266],
+      [277, 266]
+    ]
+  }
+}

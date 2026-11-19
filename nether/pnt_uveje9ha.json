@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "id": "pnt_uveje9ha",
+  "properties": {
+    "line": "lin_gujaheuk",
+    "name": "South Farnough"
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "Point",
+        "coordinates": [328, 325]
+      },
+      {
+        "type": "LineString",
+        "coordinates": [
+          [328, 325],
+          [300, 325]
+        ]
+      }
+    ]
+  }
+}

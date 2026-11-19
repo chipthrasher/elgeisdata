@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "pnt_8i6n9nfe",
+  "properties": {
+    "description": "Large northwestern nation known for lavish architecture, democracy, alcohol, and having a jolly good time",
+    "entity": "ent_7fj4s2t6",
+    "line": "lin_3pf6po3v",
+    "name": "Syltheim"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-364, -141]
+  }
+}
