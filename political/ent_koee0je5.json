@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_koee0je5",
   "properties": {
+    "color": "#0024a5",
     "name": "Zaraque"
   },
   "geometry": null

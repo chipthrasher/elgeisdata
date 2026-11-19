@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_d1w9buvt",
   "properties": {
+    "color": "#9f1212",
     "name": "Cyberspire"
   },
   "geometry": null

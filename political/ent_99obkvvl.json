@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_99obkvvl",
   "properties": {
+    "color": "#080705",
     "name": "Fauxford"
   },
   "geometry": null

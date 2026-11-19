@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_9b92iimd",
   "properties": {
+    "color": "#693c0f",
     "name": "Cervistan"
   },
   "geometry": null

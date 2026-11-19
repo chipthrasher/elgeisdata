@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_s9zbic26",
   "properties": {
+    "color": "#4eb839",
     "name": "Chilopleria"
   },
   "geometry": null

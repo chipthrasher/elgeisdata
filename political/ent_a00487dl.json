@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_a00487dl",
   "properties": {
+    "color": "#74ccda",
     "name": "Wooklandia"
   },
   "geometry": null

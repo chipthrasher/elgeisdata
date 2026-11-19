@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_z2fbmgte",
   "properties": {
+    "color": "#db9b9c",
     "name": "Lososha"
   },
   "geometry": null

@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_d11h2gn1",
   "properties": {
+    "color": "#a93c06",
     "name": "Novenchenna"
   },
   "geometry": null

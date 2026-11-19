@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_rdev9boq",
   "properties": {
+    "color": "#1db2bd",
     "name": "BlastCap"
   },
   "geometry": null
