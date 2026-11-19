@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pol_okg3qy3o",
+  "properties": {
+    "entity": "ent_royeh0gv",
+    "notes": "Traced from flyingmappdn.pdn"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [3741, 1309],
+        [3739, 1565],
+        [3611, 1567],
+        [3611, 1761],
+        [3997, 1763],
+        [4001, 1759],
+        [4001, 1311],
+        [3741, 1309]
+      ]
+    ]
+  }
+}
