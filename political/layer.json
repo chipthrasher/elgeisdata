@@ -21,6 +21,11 @@
       "type": "url",
       "key": "wiki",
       "label": "Wiki"
+    },
+    {
+      "type": "text",
+      "key": "notes",
+      "label": "Notes"
     }
   ],
   "name": "Political Map",
