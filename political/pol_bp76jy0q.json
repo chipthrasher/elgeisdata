@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_bp76jy0q",
   "properties": {
-    "name": "RSV",
-    "label": "",
-    "entities": ["RSV"],
+    "name": "Redstone Valley",
+    "label": "RSV",
+    "entities": ["Redstone Valley"],
     "notes": ""
   },
   "geometry": {
