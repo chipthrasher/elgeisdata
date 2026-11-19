@@ -5,7 +5,7 @@
     "name": "Redstone Valley",
     "entities": ["Redstone Valley"],
     "label": "RSV",
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

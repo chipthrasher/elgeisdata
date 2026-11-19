@@ -5,7 +5,7 @@
     "name": "ICEFARM",
     "label": "",
     "entities": ["ICEFARM"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

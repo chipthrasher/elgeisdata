@@ -5,7 +5,7 @@
     "name": "FEPB",
     "label": "",
     "entities": ["FEPB"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

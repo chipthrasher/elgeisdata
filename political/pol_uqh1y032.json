@@ -5,7 +5,7 @@
     "name": "UAC",
     "label": "",
     "entities": ["UAC"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

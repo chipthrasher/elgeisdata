@@ -5,7 +5,7 @@
     "name": "Cyberspire",
     "label": "",
     "entities": ["Cyberspire"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

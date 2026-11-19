@@ -5,7 +5,7 @@
     "name": "Goomlandia",
     "label": "",
     "entities": ["Goomlandia"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "MultiPolygon",

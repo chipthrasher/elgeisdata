@@ -5,7 +5,7 @@
     "name": "Montrose",
     "label": "",
     "entities": ["Montrose"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "MultiPolygon",

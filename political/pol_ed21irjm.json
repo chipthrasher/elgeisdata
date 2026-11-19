@@ -5,7 +5,7 @@
     "name": "Lososha",
     "label": "",
     "entities": ["Lososha"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

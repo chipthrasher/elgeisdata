@@ -5,7 +5,7 @@
     "name": "Wohlstand",
     "label": "",
     "entities": ["Wohlstand"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

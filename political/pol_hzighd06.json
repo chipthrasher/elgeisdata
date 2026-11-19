@@ -5,7 +5,7 @@
     "name": "Emeraldia",
     "label": "",
     "entities": ["Emeraldia"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

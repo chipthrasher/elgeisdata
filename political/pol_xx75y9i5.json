@@ -5,7 +5,7 @@
     "name": "Birchvale",
     "label": "",
     "entities": ["Birchvale"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

@@ -5,7 +5,7 @@
     "name": "Grove Tribe",
     "label": "",
     "entities": ["Grove Tribe"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",

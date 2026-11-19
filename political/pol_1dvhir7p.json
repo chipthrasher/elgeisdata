@@ -5,7 +5,7 @@
     "name": "STRUM",
     "label": "",
     "entities": ["STRUM"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "MultiPolygon",

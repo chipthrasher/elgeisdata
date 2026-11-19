@@ -5,7 +5,7 @@
     "name": "Novenchenna",
     "label": "",
     "entities": ["Novenchenna"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "MultiPolygon",

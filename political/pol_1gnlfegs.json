@@ -5,7 +5,7 @@
     "name": "Zaraque",
     "label": "",
     "entities": ["Zaraque"],
-    "notes": "Traced from flyingmappdn.pdn"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",
