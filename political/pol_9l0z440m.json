@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_9l0z440m",
   "properties": {
-    "entity": "ent_0riev01l",
+    "name": "Grove Tribe",
+    "label": "",
+    "entities": ["Grove Tribe"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

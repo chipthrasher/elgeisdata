@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_1fdb4hvf",
   "properties": {
-    "entity": "ent_tcdz5ycl",
+    "name": "ICEFARM",
+    "label": "",
+    "entities": ["ICEFARM"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

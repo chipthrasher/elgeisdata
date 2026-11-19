@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_21uy27q4",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "name": "Pixie Stix"
   },
   "geometry": {

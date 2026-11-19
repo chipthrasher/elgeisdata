@@ -3,7 +3,7 @@
   "id": "pnt_41y599m0",
   "properties": {
     "description": "Former residence of Chipt",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Cascadia",
     "wiki": "https://wiki.elgeis.com/wiki/Cascadia"
   },

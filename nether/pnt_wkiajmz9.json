@@ -3,7 +3,7 @@
   "id": "pnt_wkiajmz9",
   "properties": {
     "description": "Residence of MilkedCat1225",
-    "entity": "ent_82y2qbiy",
+    "entities": ["Yarutolu"],
     "line": "lin_mjerrrul",
     "name": "LaitChat"
   },

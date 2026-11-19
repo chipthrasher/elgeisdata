@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_sa28fsr2",
   "properties": {
-    "entity": "ent_d1w9buvt",
+    "name": "Cyberspire",
+    "label": "",
+    "entities": ["Cyberspire"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

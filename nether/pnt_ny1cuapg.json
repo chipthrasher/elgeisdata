@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ny1cuapg",
   "properties": {
-    "entity": "ent_tcdz5ycl",
+    "entities": ["ICEFARM"],
     "name": "ICEFARM"
   },
   "geometry": {

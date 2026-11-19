@@ -3,7 +3,7 @@
   "id": "pnt_30tz2dl8",
   "properties": {
     "description": "A former part of Threesodas's estate of Wind",
-    "entity": "ent_1cn6rylg",
+    "entities": ["Šarakofu"],
     "name": "Swamp Wind"
   },
   "geometry": {

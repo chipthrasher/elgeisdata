@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_i9plzduh",
   "properties": {
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Fort Skardaz"
   },
   "geometry": {

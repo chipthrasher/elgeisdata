@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_41qw3qxx",
   "properties": {
-    "entity": "ent_mtv07klz",
+    "name": "MMFM Co.",
+    "label": "",
+    "entities": ["MMFM Co."],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

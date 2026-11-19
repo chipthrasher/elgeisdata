@@ -3,7 +3,7 @@
   "id": "pnt_zm5ap3c2",
   "properties": {
     "description": "Residence of crazyjuplup",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_n9zm2wlc",
     "name": "Krosnox"
   },

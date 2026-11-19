@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_zfrqgdz3",
   "properties": {
-    "entity": "ent_rdev9boq",
+    "entities": ["BlastCap"],
     "name": "Astria"
   },
   "geometry": {

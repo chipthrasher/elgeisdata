@@ -3,7 +3,7 @@
   "id": "pnt_1x9ilwrz",
   "properties": {
     "description": "The western border of Montrose, right by a bridge to Syltheim",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Anterflauthutia"
   },
   "geometry": {

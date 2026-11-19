@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_iz2cbjxz",
   "properties": {
-    "entity": "ent_edapiu8h",
+    "name": "Emeraldia",
+    "label": "",
+    "entities": ["Emeraldia"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

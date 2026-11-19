@@ -3,7 +3,7 @@
   "id": "pnt_4tpzavnq",
   "properties": {
     "description": "The capital of Askar",
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Arkavollur"
   },
   "geometry": {

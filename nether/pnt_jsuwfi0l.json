@@ -4,7 +4,7 @@
   "properties": {
     "description": "Public End portal maintained by Goomlandia",
     "end": true,
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "name": "Goomlandian End Portal"
   },
   "geometry": {

@@ -3,7 +3,7 @@
   "id": "pnt_5txmcxqq",
   "properties": {
     "description": "Formerly the Atlantis portal",
-    "entity": "ent_0068pnvf",
+    "entities": ["Vostok"],
     "name": "Inko Jungle"
   },
   "geometry": {

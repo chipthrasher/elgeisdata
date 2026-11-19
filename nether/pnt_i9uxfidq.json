@@ -3,7 +3,7 @@
   "id": "pnt_i9uxfidq",
   "properties": {
     "description": "Residence of FlyingGMM",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "line": "lin_fsdahv58",
     "name": "Gabeford"
   },

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_c855lqof",
   "properties": {
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "line": "lin_q3j3pzl0",
     "name": "River Run Estate"
   },

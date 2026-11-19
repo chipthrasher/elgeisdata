@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_078o6y63",
   "properties": {
-    "entity": "ent_k16j0vrf",
+    "entities": ["Redstone Valley"],
     "name": "Bialya"
   },
   "geometry": {

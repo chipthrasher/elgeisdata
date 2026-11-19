@@ -3,7 +3,7 @@
   "id": "pnt_y2fvvju5",
   "properties": {
     "description": "Residence of Informal__",
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Kupun Kukoj",
     "wiki": "https://wiki.elgeis.com/wiki/Askar"
   },

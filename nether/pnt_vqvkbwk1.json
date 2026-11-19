@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_vqvkbwk1",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_sjdvnu8l",
     "name": "Medoh"
   },

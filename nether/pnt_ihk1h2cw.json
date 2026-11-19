@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ihk1h2cw",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "hidden": true,
     "name": "Bardum Industrial District"
   },

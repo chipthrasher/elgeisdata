@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_3h7qu6bu",
   "properties": {
-    "entity": "ent_1cn6rylg",
+    "name": "Šarakofu",
+    "label": "",
+    "entities": ["Šarakofu"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

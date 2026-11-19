@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_4zehxy87",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Rhett Island",
     "wiki": "https://wiki.elgeis.com/wiki/Rhett"
   },

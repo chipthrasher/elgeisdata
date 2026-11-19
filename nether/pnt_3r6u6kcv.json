@@ -3,7 +3,7 @@
   "id": "pnt_3r6u6kcv",
   "properties": {
     "description": "Residence of Coolnut10",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Tautona"
   },
   "geometry": {

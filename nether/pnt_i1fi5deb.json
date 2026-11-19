@@ -3,7 +3,7 @@
   "id": "pnt_i1fi5deb",
   "properties": {
     "description": "A former Fauxford territory",
-    "entity": "ent_99obkvvl",
+    "entities": ["Fauxford"],
     "line": "lin_ugqprgsx",
     "name": "Ballford"
   },

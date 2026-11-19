@@ -3,7 +3,7 @@
   "id": "pnt_kdld9um1",
   "properties": {
     "description": "Former Prosperity League headquarters",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_v03ib5qm",
     "name": "PLHQ Inn",
     "wiki": "https://wiki.elgeis.com/wiki/Prosperity_League"

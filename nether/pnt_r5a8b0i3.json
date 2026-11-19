@@ -3,7 +3,7 @@
   "id": "pnt_r5a8b0i3",
   "properties": {
     "description": "Former capital of Voidnest",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "ibwh": true,
     "line": "lin_i14qc3cf",
     "name": "Voidmouth",

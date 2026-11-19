@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_q4e5x0sz",
   "properties": {
-    "entity": "ent_k16j0vrf",
+    "entities": ["Redstone Valley"],
     "line": "lin_qvdoeo27",
     "name": "Very Big Observatory"
   },

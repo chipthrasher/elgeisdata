@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ncfwveep",
   "properties": {
-    "entity": "ent_d1w9buvt",
+    "entities": ["Cyberspire"],
     "line": "lin_wyhjuh4u",
     "name": "Cyperspire",
     "national": true

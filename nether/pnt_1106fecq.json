@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_1106fecq",
   "properties": {
-    "entity": "ent_k16j0vrf",
+    "entities": ["Redstone Valley"],
     "line": "lin_qvdoeo27",
     "name": "Nature Publishing"
   },

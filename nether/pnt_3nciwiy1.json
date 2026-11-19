@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_3nciwiy1",
   "properties": {
-    "entity": "ent_1cn6rylg",
+    "entities": ["Šarakofu"],
     "line": "lin_wtziyovs",
     "name": "Shaxia"
   },

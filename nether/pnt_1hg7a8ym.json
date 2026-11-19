@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_1hg7a8ym",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "ibwh": true,
     "name": "Icedale Tavern",
     "wiki": "https://wiki.elgeis.com/wiki/Icedale_Guild"

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_jq27ih1a",
   "properties": {
-    "entity": "ent_jxnk3nb1",
+    "name": "MI Inc.",
+    "label": "",
+    "entities": ["MI Inc."],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

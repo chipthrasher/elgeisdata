@@ -3,7 +3,7 @@
   "id": "pnt_9ebxc9lg",
   "properties": {
     "description": "Residence of MithicSpirit",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "name": "Iskallia"
   },
   "geometry": {

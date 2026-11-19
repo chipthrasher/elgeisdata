@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_cc7v183l",
   "properties": {
-    "entity": "ent_dwyvzf20",
+    "entities": ["Kyoato"],
     "name": "Seicho Town"
   },
   "geometry": {

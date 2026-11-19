@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ll15j9dq",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Great Tree Library"
   },
   "geometry": {

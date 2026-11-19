@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_37h5b9j7",
   "properties": {
-    "entity": "ent_r7mgdxx2",
+    "entities": ["Obios"],
     "name": "Olsen's Landing"
   },
   "geometry": {

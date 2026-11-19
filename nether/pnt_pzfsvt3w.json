@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_pzfsvt3w",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "name": "Ozan Prison Island",
     "warning": "Private portal, likely trapped"
   },

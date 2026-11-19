@@ -2,7 +2,8 @@
   "type": "Feature",
   "id": "pol_svxyky24",
   "properties": {
-    "entity": "ent_k16j0vrf",
+    "name": "Redstone Valley",
+    "entities": ["Redstone Valley"],
     "label": "RSV",
     "notes": "Traced from flyingmappdn.pdn"
   },

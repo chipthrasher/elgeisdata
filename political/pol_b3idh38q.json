@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_b3idh38q",
   "properties": {
-    "entity": "ent_k69i81bk",
+    "name": "RSV",
+    "label": "",
+    "entities": ["RSV"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

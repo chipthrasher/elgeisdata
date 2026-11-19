@@ -3,7 +3,7 @@
   "id": "pnt_kl1tr9t5",
   "properties": {
     "description": "Residence of argetlam04",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Iris",
     "wiki": "https://wiki.elgeis.com/wiki/Iris"
   },

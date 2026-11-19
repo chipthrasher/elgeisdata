@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_yz6pfkgc",
   "properties": {
-    "entity": "ent_edapiu8h",
+    "entities": ["Emeraldia"],
     "line": "lin_rb7en1gi",
     "name": "North Irkjat"
   },

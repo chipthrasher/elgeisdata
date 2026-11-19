@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_qqkojfcn",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "name": "Lososha",
+    "label": "",
+    "entities": ["Lososha"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

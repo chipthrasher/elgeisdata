@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_h21esunb",
   "properties": {
-    "entity": "ent_v5nn0124",
+    "name": "Kseniya",
+    "label": "",
+    "entities": ["Kseniya"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_gabfytdy",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "name": "STRUM",
+    "label": "",
+    "entities": ["STRUM"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

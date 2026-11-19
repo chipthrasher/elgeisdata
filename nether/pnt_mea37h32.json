@@ -3,7 +3,7 @@
   "id": "pnt_mea37h32",
   "properties": {
     "description": "Portal for the cities of Orth, New Orth, and Kitakafu",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "New Orth"
   },
   "geometry": {

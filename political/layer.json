@@ -5,13 +5,14 @@
     {
       "type": "text",
       "key": "name",
-      "label": "Name"
+      "label": "Name",
+      "description": "A nation's name, or a polygon's name in the directory"
     },
     {
       "type": "text",
       "key": "label",
       "label": "Map label",
-      "description": "Drawn on the map instead of the name"
+      "description": "Drawn on the map instead of the polygon's political entities"
     },
     {
       "type": "color",
@@ -19,9 +20,9 @@
       "label": "Color"
     },
     {
-      "type": "reference",
-      "key": "entity",
-      "label": "Nation"
+      "type": "entities",
+      "key": "entities",
+      "label": "Political entities"
     },
     {
       "type": "url",

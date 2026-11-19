@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_rd3ls22z",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Vestur Field"
   },
   "geometry": {

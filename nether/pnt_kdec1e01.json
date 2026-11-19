@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_kdec1e01",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Sanctuary Isle"
   },
   "geometry": {

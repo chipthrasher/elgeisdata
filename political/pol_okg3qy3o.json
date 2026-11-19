@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_okg3qy3o",
   "properties": {
-    "entity": "ent_royeh0gv",
+    "name": "BMF",
+    "label": "",
+    "entities": ["BMF"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

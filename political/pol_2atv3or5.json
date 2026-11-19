@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_2atv3or5",
   "properties": {
-    "entity": "ent_zgh0lmsb",
+    "name": "Vanskovich",
+    "label": "",
+    "entities": ["Vanskovich"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_hcw7yyvx",
   "properties": {
-    "entity": "ent_r7mgdxx2",
+    "name": "Obios",
+    "label": "",
+    "entities": ["Obios"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

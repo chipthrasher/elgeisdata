@@ -3,7 +3,7 @@
   "id": "pnt_wrb5j523",
   "properties": {
     "description": "The Montrosian estate of Wenlock.",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Wenlock"
   },
   "geometry": {

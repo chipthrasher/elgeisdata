@@ -3,7 +3,7 @@
   "id": "pnt_t17lwh6g",
   "properties": {
     "description": "Formerly known as Hunger Games Island",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Brave Island"
   },
   "geometry": {

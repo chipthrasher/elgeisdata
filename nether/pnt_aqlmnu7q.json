@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_aqlmnu7q",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Hveiti"
   },
   "geometry": {

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_8ua7tyi0",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Sechanje Island"
   },
   "geometry": {

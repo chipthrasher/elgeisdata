@@ -3,7 +3,7 @@
   "id": "pnt_4mcajoz5",
   "properties": {
     "description": "Fianna's capital",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_sjdvnu8l",
     "name": "Dwarf Island",
     "wiki": "https://wiki.elgeis.com/wiki/Fianna"

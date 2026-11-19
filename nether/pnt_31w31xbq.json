@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_31w31xbq",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Fynuu"
   },
   "geometry": {

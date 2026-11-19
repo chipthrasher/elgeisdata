@@ -3,7 +3,7 @@
   "id": "pnt_qo54a6zc",
   "properties": {
     "description": "Voidnestian castle built by coblue",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "line": "lin_i14qc3cf",
     "name": "the grey sanctum",
     "wiki": "https://wiki.elgeis.com/wiki/Voidnest#Landmarks"

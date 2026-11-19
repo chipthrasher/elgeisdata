@@ -3,7 +3,7 @@
   "id": "pnt_p1m5s75p",
   "properties": {
     "description": "The tiny island of the country of Tree",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "name": "Tree"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_0vvcudyp",
   "properties": {
-    "entity": "ent_d11h2gn1",
+    "name": "Novenchenna",
+    "label": "",
+    "entities": ["Novenchenna"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

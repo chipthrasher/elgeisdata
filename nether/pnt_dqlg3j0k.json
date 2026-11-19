@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_dqlg3j0k",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Boš"
   },
   "geometry": {

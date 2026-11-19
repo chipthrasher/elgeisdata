@@ -3,7 +3,7 @@
   "id": "pnt_nymkgb63",
   "properties": {
     "description": "The wasteland of the original capital of Nyania",
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "hidden": true,
     "name": "Gateway City"
   },

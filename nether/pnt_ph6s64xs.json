@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ph6s64xs",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Polar Island"
   },
   "geometry": {

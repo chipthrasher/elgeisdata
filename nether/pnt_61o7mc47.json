@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_61o7mc47",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "line": "lin_rx96bxe5",
     "name": "Bergia"
   },

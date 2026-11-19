@@ -3,7 +3,7 @@
   "id": "pnt_dvsnzr0y",
   "properties": {
     "description": "Capital of Ilyria",
-    "entity": "ent_s9zbic26",
+    "entities": ["Chilopleria"],
     "name": "Ilyria",
     "national": true
   },

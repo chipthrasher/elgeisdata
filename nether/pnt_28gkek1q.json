@@ -3,7 +3,7 @@
   "id": "pnt_28gkek1q",
   "properties": {
     "description": "Goomlandia's capital",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "line": "lin_5segg5fq",
     "name": "Goomtown",
     "national": true,

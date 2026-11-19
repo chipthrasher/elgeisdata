@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_xy7f43tm",
   "properties": {
-    "entity": "ent_wlvzwy85",
+    "name": "Tsagaan Mori",
+    "label": "",
+    "entities": ["Tsagaan Mori"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

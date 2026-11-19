@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_3nwm2kc1",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "line": "lin_x27svj8d",
     "name": "Dottia"
   },

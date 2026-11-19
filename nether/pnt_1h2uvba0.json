@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_1h2uvba0",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "name": "New Stoako"
   },
   "geometry": {

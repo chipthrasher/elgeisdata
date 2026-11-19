@@ -3,7 +3,7 @@
   "id": "pnt_6t10fsys",
   "properties": {
     "description": "The main district of the former estate of Wind.",
-    "entity": "ent_1cn6rylg",
+    "entities": ["Šarakofu"],
     "line": "lin_wtziyovs",
     "name": "Main District of Central Wind"
   },

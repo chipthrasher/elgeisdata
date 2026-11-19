@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_05ugvqf0",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Gerrytown"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_nlp9ulqy",
   "properties": {
-    "entity": "ent_tndxrat0",
+    "name": "Gaelia-Areguzia",
+    "label": "",
+    "entities": ["Gaelia-Areguzia"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

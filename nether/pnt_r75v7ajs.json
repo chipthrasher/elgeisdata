@@ -3,7 +3,7 @@
   "id": "pnt_r75v7ajs",
   "properties": {
     "description": "Future site of Bloxford University",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Bloxford"
   },
   "geometry": {

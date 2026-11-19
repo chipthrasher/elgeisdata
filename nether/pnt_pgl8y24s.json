@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_pgl8y24s",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "name": "Dingus Province"
   },
   "geometry": {

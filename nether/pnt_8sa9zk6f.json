@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_8sa9zk6f",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Old Astria"
   },
   "geometry": {

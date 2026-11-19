@@ -3,7 +3,7 @@
   "id": "pnt_h3pasljw",
   "properties": {
     "description": "Residence of awesome_ketchup",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "name": "Soleii Islands"
   },
   "geometry": {

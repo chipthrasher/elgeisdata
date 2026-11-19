@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_kydmxq0q",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "line": "lin_wyhjuh4u",
     "name": "Jarn Saari",
     "wiki": "https://wiki.elgeis.com/wiki/Wohlstand"

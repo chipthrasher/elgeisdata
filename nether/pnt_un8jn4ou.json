@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_un8jn4ou",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Samloka"
   },
   "geometry": {

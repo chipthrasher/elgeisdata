@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_66qae489",
   "properties": {
-    "entity": "ent_ppka60rp",
+    "name": "Banapo",
+    "label": "",
+    "entities": ["Banapo"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

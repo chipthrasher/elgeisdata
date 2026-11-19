@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_0ilk7k3t",
   "properties": {
-    "entity": "ent_7fj4s2t6",
+    "name": "Montrose",
+    "label": "",
+    "entities": ["Montrose"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

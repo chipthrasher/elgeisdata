@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_dkiigixb",
   "properties": {
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Gold District"
   },
   "geometry": {

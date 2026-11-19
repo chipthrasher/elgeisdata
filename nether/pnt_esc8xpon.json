@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_esc8xpon",
   "properties": {
-    "entity": "ent_dwyvzf20",
+    "entities": ["Kyoato"],
     "name": "Squink Square"
   },
   "geometry": {

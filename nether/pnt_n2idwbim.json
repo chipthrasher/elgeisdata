@@ -3,7 +3,7 @@
   "id": "pnt_n2idwbim",
   "properties": {
     "description": "Elgeis's oldest public library",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "ibwh": true,
     "line": "lin_fsdahv58",
     "name": "Archives of Montrose"

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_z9lty8vo",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "name": "Wohlstand",
+    "label": "",
+    "entities": ["Wohlstand"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

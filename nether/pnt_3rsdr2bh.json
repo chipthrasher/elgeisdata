@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_3rsdr2bh",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Oberos",
     "wiki": "https://wiki.elgeis.com/wiki/Drift"
   },

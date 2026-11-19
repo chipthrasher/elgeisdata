@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_6qp9i2vx",
   "properties": {
-    "entity": "ent_99obkvvl",
+    "entities": ["Fauxford"],
     "name": "Rakdos"
   },
   "geometry": {

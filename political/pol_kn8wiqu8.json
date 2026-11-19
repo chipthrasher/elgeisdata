@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_kn8wiqu8",
   "properties": {
-    "entity": "ent_99obkvvl",
+    "name": "Fauxford",
+    "label": "",
+    "entities": ["Fauxford"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

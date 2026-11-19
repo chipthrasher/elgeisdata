@@ -4,7 +4,7 @@
   "properties": {
     "description": "An End Portal maintained by Drasfor",
     "end": true,
-    "entity": "ent_9b92iimd",
+    "entities": ["Cervistan"],
     "name": "Drasforian End Portal"
   },
   "geometry": {

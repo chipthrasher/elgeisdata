@@ -3,7 +3,7 @@
   "id": "pnt_21yqbozq",
   "properties": {
     "description": "Former residence of Flint_Westwood_",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Flont's Town"
   },
   "geometry": {

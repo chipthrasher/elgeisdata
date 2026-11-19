@@ -3,7 +3,7 @@
   "id": "pnt_uymeygwd",
   "properties": {
     "description": "Formerly the UAC capital",
-    "entity": "ent_1cn6rylg",
+    "entities": ["Šarakofu"],
     "name": "Alliance City"
   },
   "geometry": {

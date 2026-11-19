@@ -3,7 +3,7 @@
   "id": "pnt_heggyhez",
   "properties": {
     "description": "MTJNC's prismarine farm",
-    "entity": "ent_ppka60rp",
+    "entities": ["Banapo"],
     "name": "Rapture Prismarine Farm"
   },
   "geometry": {

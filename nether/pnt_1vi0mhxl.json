@@ -3,7 +3,7 @@
   "id": "pnt_1vi0mhxl",
   "properties": {
     "description": "Residence of MedimaNN",
-    "entity": "ent_zgh0lmsb",
+    "entities": ["Vanskovich"],
     "name": "Glavnaya",
     "national": true,
     "wiki": "https://wiki.elgeis.com/wiki/Vanskovich"

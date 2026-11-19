@@ -3,7 +3,7 @@
   "id": "pnt_a40nkxrs",
   "properties": {
     "description": "Residence of Pawnch_",
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Ša'amponi",
     "wiki": "https://wiki.elgeis.com/wiki/Championis"
   },

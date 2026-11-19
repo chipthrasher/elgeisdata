@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_7u8vctm7",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_v03ib5qm",
     "name": "Montrosian Tree Farm & Horse Breeding Stables"
   },

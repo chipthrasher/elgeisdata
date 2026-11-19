@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_6ft5n4du",
   "properties": {
-    "entity": "ent_82y2qbiy",
+    "entities": ["Yarutolu"],
     "line": "lin_er6l4x7k",
     "name": "Wolvden"
   },

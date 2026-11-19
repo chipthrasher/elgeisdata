@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ii1sr9ml",
   "properties": {
-    "entity": "ent_edapiu8h",
+    "entities": ["Emeraldia"],
     "name": "Adfelis",
     "wiki": "https://wiki.elgeis.com/wiki/Adfelis"
   },

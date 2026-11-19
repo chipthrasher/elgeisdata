@@ -3,7 +3,7 @@
   "id": "pnt_14dsbrq7",
   "properties": {
     "description": "The personal island of Taming_Ocelots",
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "line": "lin_m2zj58kf",
     "name": "Briza"
   },

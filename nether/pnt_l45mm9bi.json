@@ -3,7 +3,7 @@
   "id": "pnt_l45mm9bi",
   "properties": {
     "description": "Montrosian Agricultural Center",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "MAC",
     "wiki": "https://wiki.elgeis.com/wiki/Montrosian_Production_Emporium"
   },

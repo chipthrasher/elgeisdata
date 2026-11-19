@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_vmf2u4i0",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "name": "Spoingus",
+    "label": "",
+    "entities": ["Spoingus"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

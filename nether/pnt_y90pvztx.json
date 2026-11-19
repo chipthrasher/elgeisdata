@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_y90pvztx",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Cactus Town"
   },
   "geometry": {

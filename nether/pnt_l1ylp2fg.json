@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_l1ylp2fg",
   "properties": {
-    "entity": "ent_dwyvzf20",
+    "entities": ["Kyoato"],
     "name": "Sacramento Business Center"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_1gnlfegs",
   "properties": {
-    "entity": "ent_koee0je5",
+    "name": "Zaraque",
+    "label": "",
+    "entities": ["Zaraque"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_vjcdltw8",
   "properties": {
-    "entity": "ent_aco86z93",
+    "name": "Naador",
+    "label": "Test",
+    "entities": ["Naador"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

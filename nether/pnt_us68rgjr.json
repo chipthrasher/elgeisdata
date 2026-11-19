@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_us68rgjr",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "name": "Ozan Home Island"
   },
   "geometry": {

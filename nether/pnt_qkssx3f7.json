@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_qkssx3f7",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_0j1det6o",
     "name": "New Spruceville"
   },

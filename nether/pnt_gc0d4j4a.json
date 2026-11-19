@@ -3,7 +3,7 @@
   "id": "pnt_gc0d4j4a",
   "properties": {
     "description": "Estate of TheRealLion2223",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "name": "Andgiar"
   },
   "geometry": {

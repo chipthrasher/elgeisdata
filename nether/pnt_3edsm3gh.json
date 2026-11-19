@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_3edsm3gh",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Granitea"
   },
   "geometry": {

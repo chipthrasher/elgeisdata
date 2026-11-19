@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_5spkvxje",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Noviskalija Undercity"
   },
   "geometry": {

@@ -3,7 +3,7 @@
   "id": "pnt_ezxe22ce",
   "properties": {
     "description": "Formerly known as the Sylvian Federal Province",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Etel Metsia",
     "wiki": "https://wiki.elgeis.com/wiki/Sylvian_Union"
   },

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_xogq1xdz",
   "properties": {
-    "entity": "ent_1cn6rylg",
+    "entities": ["Šarakofu"],
     "name": "Oxonly"
   },
   "geometry": {

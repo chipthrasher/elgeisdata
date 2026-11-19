@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_t0kgwi6r",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_a0jei32e",
     "name": "Melakira's Tower"
   },

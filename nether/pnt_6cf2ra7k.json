@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_6cf2ra7k",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Krabbatoah"
   },
   "geometry": {

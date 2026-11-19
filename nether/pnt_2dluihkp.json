@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_2dluihkp",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Tsarigrad"
   },
   "geometry": {

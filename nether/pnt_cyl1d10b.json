@@ -3,7 +3,7 @@
   "id": "pnt_cyl1d10b",
   "properties": {
     "description": "New Bohdanburg, the capital of Nyania",
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "New Bohdanburg"
   },
   "geometry": {

@@ -3,7 +3,7 @@
   "id": "pnt_cd3dguzy",
   "properties": {
     "description": "Montrosian Bureau of Logistics, Montrosian Villager Production Co.",
-    "entity": "ent_7fj4s2t6",
+    "entities": ["Montrose"],
     "line": "lin_v03ib5qm",
     "name": "Stone District"
   },

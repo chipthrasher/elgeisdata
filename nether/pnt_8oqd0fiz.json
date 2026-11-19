@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_8oqd0fiz",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Northern Woods"
   },
   "geometry": {

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_qxr72dsl",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Wohlstandic Desert Settlement"
   },
   "geometry": {

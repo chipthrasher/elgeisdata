@@ -3,7 +3,7 @@
   "id": "pnt_zgg335xu",
   "properties": {
     "description": "Montrosian estate inhabited by Banastair and Scampo12",
-    "entity": "ent_ppka60rp",
+    "entities": ["Banapo"],
     "name": "Banapo",
     "wiki": "https://wiki.elgeis.com/wiki/Banapo"
   },

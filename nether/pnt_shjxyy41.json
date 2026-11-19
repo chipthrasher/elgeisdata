@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_shjxyy41",
   "properties": {
-    "entity": "ent_s7c9igsq",
+    "entities": ["Goomlandia"],
     "line": "lin_x27svj8d",
     "name": "Joe LaPorte City"
   },

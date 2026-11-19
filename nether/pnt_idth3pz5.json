@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_idth3pz5",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Cjeni"
   },
   "geometry": {

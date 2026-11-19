@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_dejtwtkr",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "hidden": true,
     "name": "Volarian Creeper Farm"
   },

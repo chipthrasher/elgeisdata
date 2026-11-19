@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_qtfptii0",
   "properties": {
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Oostland"
   },
   "geometry": {

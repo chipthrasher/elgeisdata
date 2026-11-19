@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_dnkhawzd",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Blindvé Village"
   },
   "geometry": {

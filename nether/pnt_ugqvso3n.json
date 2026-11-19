@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_ugqvso3n",
   "properties": {
-    "entity": "ent_edapiu8h",
+    "entities": ["Emeraldia"],
     "name": "Saikyo",
     "wiki": "https://wiki.elgeis.com/wiki/Saikyo"
   },

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_2cnl5mxz",
   "properties": {
-    "entity": "ent_s7c9igsq",
+    "name": "Goomlandia",
+    "label": "",
+    "entities": ["Goomlandia"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

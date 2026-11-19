@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_xba6ecso",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Obios Northern Claim"
   },
   "geometry": {

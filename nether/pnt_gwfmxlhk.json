@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_gwfmxlhk",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Wohsahill Archipelago"
   },
   "geometry": {

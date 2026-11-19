@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_i4eh5fm1",
   "properties": {
-    "entity": "ent_aco86z93",
+    "entities": ["Naador"],
     "name": "Tym"
   },
   "geometry": {

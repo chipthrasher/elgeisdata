@@ -3,7 +3,7 @@
   "id": "pnt_90zi8qr4",
   "properties": {
     "description": "Residence of camaradultudor",
-    "entity": "ent_a00487dl",
+    "entities": ["Wooklandia"],
     "name": "Sitári",
     "national": true
   },

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_kunuyiw2",
   "properties": {
-    "entity": "ent_tndxrat0",
+    "entities": ["Gaelia-Areguzia"],
     "name": "Gabeford 2.0"
   },
   "geometry": {

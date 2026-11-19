@@ -3,7 +3,7 @@
   "id": "pnt_9sfv0csv",
   "properties": {
     "description": "Formerly known as Duo Cognate",
-    "entity": "ent_d11h2gn1",
+    "entities": ["Novenchenna"],
     "name": "Novenchenna",
     "national": true
   },

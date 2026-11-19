@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_7w18txhh",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Lososha Village"
   },
   "geometry": {

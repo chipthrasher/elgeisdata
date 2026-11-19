@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_9p24xugo",
   "properties": {
-    "entity": "ent_tndxrat0",
+    "entities": ["Gaelia-Areguzia"],
     "name": "Orthodox Floppaist Church of Azrainir"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_h9vgjrdo",
   "properties": {
-    "entity": "ent_p9853b0p",
+    "name": "FEPB",
+    "label": "",
+    "entities": ["FEPB"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

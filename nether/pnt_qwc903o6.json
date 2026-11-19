@@ -3,7 +3,7 @@
   "id": "pnt_qwc903o6",
   "properties": {
     "description": "Elgeis's only inhabited mushroom island",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "GoatWear Island",
     "wiki": "https://wiki.elgeis.com/wiki/HUM#Territories"
   },

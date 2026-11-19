@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_3ctl3z2j",
   "properties": {
-    "entity": "ent_0068pnvf",
+    "name": "Vostok",
+    "label": "",
+    "entities": ["Vostok"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

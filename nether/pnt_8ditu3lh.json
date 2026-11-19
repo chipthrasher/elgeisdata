@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_8ditu3lh",
   "properties": {
-    "entity": "ent_tndxrat0",
+    "entities": ["Gaelia-Areguzia"],
     "name": "Riochtai na nGael",
     "national": true
   },

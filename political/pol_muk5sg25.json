@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_muk5sg25",
   "properties": {
-    "entity": "ent_9b92iimd",
+    "name": "Cervistan",
+    "label": "",
+    "entities": ["Cervistan"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

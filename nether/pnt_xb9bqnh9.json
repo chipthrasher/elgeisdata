@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_xb9bqnh9",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "North Shore"
   },
   "geometry": {

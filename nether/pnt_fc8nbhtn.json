@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_fc8nbhtn",
   "properties": {
-    "entity": "ent_n3fle3cl",
+    "entities": ["Spoingus"],
     "line": "lin_04n8gfn6",
     "name": "Auckaneck"
   },

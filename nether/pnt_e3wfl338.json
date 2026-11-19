@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_e3wfl338",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Kamp Klubb"
   },
   "geometry": {

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_qy5vahfp",
   "properties": {
-    "entity": "ent_z2fbmgte",
+    "entities": ["Lososha"],
     "name": "Notos Imperial Island"
   },
   "geometry": {

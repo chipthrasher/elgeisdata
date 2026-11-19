@@ -3,7 +3,7 @@
   "id": "pnt_dyxeuxi5",
   "properties": {
     "description": "Current headquarters of the IBWH, formerly a country led by Erjan101",
-    "entity": "ent_0068pnvf",
+    "entities": ["Vostok"],
     "name": "Tsarevets",
     "wiki": "https://wiki.elgeis.com/wiki/Compendium_of_Server_History_(Text)#Tsarevets"
   },

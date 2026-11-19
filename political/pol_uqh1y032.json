@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_uqh1y032",
   "properties": {
-    "entity": "ent_2ggtvoez",
+    "name": "UAC",
+    "label": "",
+    "entities": ["UAC"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

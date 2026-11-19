@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_h8xle2z7",
   "properties": {
-    "entity": "ent_0068pnvf",
+    "entities": ["Vostok"],
     "name": "Lazarica"
   },
   "geometry": {

@@ -3,7 +3,7 @@
   "id": "pnt_66c7i0c5",
   "properties": {
     "description": "A village on the island of Jarn Saari",
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "line": "lin_wyhjuh4u",
     "name": "Wohlsteinn"
   },

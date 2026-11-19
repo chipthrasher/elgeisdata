@@ -3,7 +3,7 @@
   "id": "pnt_ih5wqyds",
   "properties": {
     "description": "Estate of Kacnea",
-    "entity": "ent_ppka60rp",
+    "entities": ["Banapo"],
     "name": "Maractus"
   },
   "geometry": {

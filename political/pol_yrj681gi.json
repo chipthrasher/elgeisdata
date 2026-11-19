@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_yrj681gi",
   "properties": {
-    "entity": "ent_ovudy630",
+    "name": "Schevakia",
+    "label": "",
+    "entities": ["Schevakia"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

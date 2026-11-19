@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_j1ed9ik8",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Snjohald"
   },
   "geometry": {

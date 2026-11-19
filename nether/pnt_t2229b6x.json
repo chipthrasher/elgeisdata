@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_t2229b6x",
   "properties": {
-    "entity": "ent_pm22mu14",
+    "entities": ["Wohlstand"],
     "name": "Vigi",
     "wiki": "https://wiki.elgeis.com/wiki/Wohlstand#.22Sj.C3.B3_av_Wohlstand.22"
   },

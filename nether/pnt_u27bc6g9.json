@@ -3,7 +3,7 @@
   "id": "pnt_u27bc6g9",
   "properties": {
     "description": "Welcome to Elgeis!",
-    "entity": "ent_6gv2dr0i",
+    "entities": ["Elgeis"],
     "name": "Spawn",
     "wiki": "https://wiki.elgeis.com/wiki/Overworld"
   },

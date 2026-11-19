@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_lucy7pod",
   "properties": {
-    "entity": "ent_ba87cbsb",
+    "entities": ["Green Glaive"],
     "name": "Green Glaive Point",
     "national": true
   },

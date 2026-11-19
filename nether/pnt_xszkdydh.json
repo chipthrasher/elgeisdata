@@ -3,7 +3,7 @@
   "id": "pnt_xszkdydh",
   "properties": {
     "description": "Vailan's capital",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "name": "Fjall",
     "wiki": "https://wiki.elgeis.com/wiki/Kingdom_of_Vailan"
   },

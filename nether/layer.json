@@ -8,9 +8,9 @@
       "label": "Name"
     },
     {
-      "type": "reference",
-      "key": "entity",
-      "label": "Political entity"
+      "type": "entities",
+      "key": "entities",
+      "label": "Political entities"
     },
     {
       "type": "reference",

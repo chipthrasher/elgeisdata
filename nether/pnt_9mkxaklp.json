@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_9mkxaklp",
   "properties": {
-    "entity": "ent_zgh0lmsb",
+    "entities": ["Vanskovich"],
     "name": "Megálo Spíti"
   },
   "geometry": {

@@ -2,7 +2,9 @@
   "type": "Feature",
   "id": "pol_xx75y9i5",
   "properties": {
-    "entity": "ent_29qoo1x0",
+    "name": "Birchvale",
+    "label": "",
+    "entities": ["Birchvale"],
     "notes": "Traced from flyingmappdn.pdn"
   },
   "geometry": {

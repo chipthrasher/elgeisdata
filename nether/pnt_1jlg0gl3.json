@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_1jlg0gl3",
   "properties": {
-    "entity": "ent_royeh0gv",
+    "entities": ["BMF"],
     "name": "BMF"
   },
   "geometry": {

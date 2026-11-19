@@ -3,7 +3,7 @@
   "id": "pnt_3c5wrlii",
   "properties": {
     "description": "Formerly known as Schavick, and briefly the capital of the country of Satama.",
-    "entity": "ent_eg58x41r",
+    "entities": ["STRUM"],
     "line": "lin_tof1mewd",
     "name": "South Polgolas",
     "wiki": "https://wiki.elgeis.com/wiki/Schevakia"

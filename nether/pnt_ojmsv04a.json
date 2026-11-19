@@ -3,7 +3,7 @@
   "id": "pnt_ojmsv04a",
   "properties": {
     "description": "Vostok's capital",
-    "entity": "ent_0068pnvf",
+    "entities": ["Vostok"],
     "name": "Vladivostok",
     "national": true,
     "wiki": "https://wiki.elgeis.com/wiki/Vostok"

@@ -3,7 +3,7 @@
   "id": "pnt_unxwlzde",
   "properties": {
     "description": "A city in Banapo",
-    "entity": "ent_ppka60rp",
+    "entities": ["Banapo"],
     "name": "Vijver"
   },
   "geometry": {
