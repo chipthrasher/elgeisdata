@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "ent_tcdz5ycl",
   "properties": {
+    "color": "#00ffff",
     "name": "ICEFARM"
   },
   "geometry": null

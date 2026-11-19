@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "id": "pol_l5atihcl",
+  "properties": {
+    "entity": "ent_aco86z93",
+    "notes": "Traced from flyingmappdn.pdn"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [2328, 5496],
+        [2330, 5500],
+        [2490, 5500],
+        [2492, 5496],
+        [2328, 5496]
+      ]
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": "pol_we3iom2z",
+  "properties": {
+    "entity": "ent_jxnk3nb1",
+    "notes": "Traced from flyingmappdn.pdn"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [1433, 2444],
+        [1573, 2444],
+        [1575, 2330],
+        [1317, 2330],
+        [1319, 2442],
+        [1433, 2444]
+      ]
+    ]
+  }
+}
