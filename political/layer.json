@@ -8,6 +8,12 @@
       "label": "Name"
     },
     {
+      "type": "text",
+      "key": "label",
+      "label": "Map label",
+      "description": "Drawn on the map instead of the name"
+    },
+    {
       "type": "color",
       "key": "color",
       "label": "Color"
@@ -30,5 +36,6 @@
   ],
   "name": "Political Map",
   "official": true,
-  "titleField": "name"
+  "titleField": "name",
+  "labelField": "label"
 }
