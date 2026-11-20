@@ -2,10 +2,8 @@
   "type": "Feature",
   "id": "pol_7rbuxq1a",
   "properties": {
-    "name": "STRUM",
-    "label": "",
-    "entities": ["STRUM"],
-    "notes": ""
+    "entities": ["Montrose"],
+    "name": "STRUM"
   },
   "geometry": {
     "type": "Polygon",
