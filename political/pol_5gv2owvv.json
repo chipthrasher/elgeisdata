@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_5gv2owvv",
   "properties": {
-    "name": "Goomlandia",
-    "label": "",
     "entities": ["ent_s7c9igsq"],
+    "label": "Goom.",
+    "name": "Goomlandia",
     "notes": ""
   },
   "geometry": {
