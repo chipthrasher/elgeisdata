@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "pnt_6fjsvwbx",
+  "properties": {
+    "entities": ["Goomlandia"],
+    "label": "Poo!",
+    "name": "Test",
+    "wiki": "https://wiki.elgeis.com/wiki/Banapan_Mapart_Foundation"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [504, -564]
+  }
+}
