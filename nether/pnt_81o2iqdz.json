@@ -3,7 +3,7 @@
   "id": "pnt_81o2iqdz",
   "properties": {
     "description": "The capital city of Emeraldia",
-    "entities": ["Emeraldia"],
+    "entities": ["ent_edapiu8h"],
     "line": "lin_cevok2ie",
     "name": "Emerald Bay",
     "national": true,

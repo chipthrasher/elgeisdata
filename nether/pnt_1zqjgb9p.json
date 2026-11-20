@@ -3,7 +3,7 @@
   "id": "pnt_1zqjgb9p",
   "properties": {
     "description": "Residence of Katawicz",
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "name": "Hybrasil"
   },
   "geometry": {

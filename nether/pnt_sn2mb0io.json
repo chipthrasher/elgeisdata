@@ -3,7 +3,7 @@
   "id": "pnt_sn2mb0io",
   "properties": {
     "description": "Home to Chipt's house and the Chiptown Metro station",
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "line": "lin_fsdahv58",
     "name": "Chiptown Metro"
   },

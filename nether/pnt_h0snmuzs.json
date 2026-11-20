@@ -3,7 +3,7 @@
   "id": "pnt_h0snmuzs",
   "properties": {
     "description": "HUM's capital Properopolis",
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "Properpolis",
     "national": true,
     "wiki": "https://wiki.elgeis.com/wiki/HUM"

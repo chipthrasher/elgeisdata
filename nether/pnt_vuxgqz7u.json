@@ -3,7 +3,7 @@
   "id": "pnt_vuxgqz7u",
   "properties": {
     "description": "A strange ocean base to the south of Rhett",
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "HP-01 “Beluga”"
   },
   "geometry": {

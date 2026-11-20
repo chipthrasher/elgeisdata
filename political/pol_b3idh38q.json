@@ -4,7 +4,7 @@
   "properties": {
     "name": "Redstone Valley",
     "label": "RSV",
-    "entities": ["Redstone Valley"],
+    "entities": ["ent_k16j0vrf"],
     "notes": ""
   },
   "geometry": {

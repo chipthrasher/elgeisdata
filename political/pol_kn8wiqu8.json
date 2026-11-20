@@ -4,7 +4,7 @@
   "properties": {
     "name": "Fauxford",
     "label": "",
-    "entities": ["Fauxford"],
+    "entities": ["ent_99obkvvl"],
     "notes": ""
   },
   "geometry": {

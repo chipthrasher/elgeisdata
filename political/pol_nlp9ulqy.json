@@ -4,7 +4,7 @@
   "properties": {
     "name": "Gaelia-Areguzia",
     "label": "",
-    "entities": ["Gaelia-Areguzia"],
+    "entities": ["ent_tndxrat0"],
     "notes": ""
   },
   "geometry": {

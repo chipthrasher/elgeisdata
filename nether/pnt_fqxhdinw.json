@@ -3,7 +3,7 @@
   "id": "pnt_fqxhdinw",
   "properties": {
     "description": "The capital of Wohlstand",
-    "entities": ["Wohlstand"],
+    "entities": ["ent_pm22mu14"],
     "name": "Jaumarn",
     "national": true
   },

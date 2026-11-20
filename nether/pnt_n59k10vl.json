@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_n59k10vl",
   "properties": {
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "Vailan Pillager Farm"
   },
   "geometry": {

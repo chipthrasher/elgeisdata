@@ -3,7 +3,7 @@
   "id": "pnt_faz5pjan",
   "properties": {
     "description": "Southern half of B&I",
-    "entities": ["Wohlstand"],
+    "entities": ["ent_pm22mu14"],
     "line": "lin_9j5y416q",
     "name": "Inquisition"
   },

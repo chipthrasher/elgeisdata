@@ -4,7 +4,7 @@
   "properties": {
     "description": "Public End portal maintained by Montrose",
     "end": true,
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "name": "Western End Portal"
   },
   "geometry": {

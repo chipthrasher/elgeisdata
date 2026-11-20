@@ -3,7 +3,7 @@
   "id": "pnt_pcdlzsz5",
   "properties": {
     "description": "Azrainir Industrial District",
-    "entities": ["Gaelia-Areguzia"],
+    "entities": ["ent_tndxrat0"],
     "line": "lin_5r8e7ufw",
     "name": "AIDS"
   },
