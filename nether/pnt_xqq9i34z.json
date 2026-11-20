@@ -3,7 +3,7 @@
   "id": "pnt_xqq9i34z",
   "properties": {
     "description": "The capital of the Redania region",
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "Zolotow"
   },
   "geometry": {

@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_y3lsvepi",
   "properties": {
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "Illyrdom"
   },
   "geometry": {

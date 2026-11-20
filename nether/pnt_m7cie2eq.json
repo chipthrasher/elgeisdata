@@ -3,7 +3,7 @@
   "id": "pnt_m7cie2eq",
   "properties": {
     "description": "Ozai's capital",
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "name": "Bingard",
     "national": true
   },

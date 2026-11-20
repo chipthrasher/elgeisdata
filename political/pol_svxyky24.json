@@ -3,7 +3,7 @@
   "id": "pol_svxyky24",
   "properties": {
     "name": "Redstone Valley",
-    "entities": ["Redstone Valley"],
+    "entities": ["ent_k16j0vrf"],
     "label": "RSV",
     "notes": ""
   },

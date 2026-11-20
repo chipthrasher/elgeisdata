@@ -3,7 +3,7 @@
   "id": "pnt_jevawv6o",
   "properties": {
     "description": "Capital of the UAC",
-    "entities": ["UAC"],
+    "entities": ["ent_2ggtvoez"],
     "name": "North Point",
     "national": true
   },

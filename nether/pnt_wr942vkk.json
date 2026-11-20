@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_wr942vkk",
   "properties": {
-    "entities": ["Wohlstand"],
+    "entities": ["ent_pm22mu14"],
     "name": "Northbay",
     "wiki": "https://wiki.elgeis.com/wiki/Northbay"
   },

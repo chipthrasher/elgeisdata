@@ -3,7 +3,7 @@
   "id": "pnt_rlrj0bml",
   "properties": {
     "description": "Nelt portal to the Montrosian embassy to RnanG.",
-    "entities": ["Gaelia-Areguzia"],
+    "entities": ["ent_tndxrat0"],
     "name": "Baile Úr Mháfat"
   },
   "geometry": {

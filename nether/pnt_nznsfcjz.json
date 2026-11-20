@@ -3,7 +3,7 @@
   "id": "pnt_nznsfcjz",
   "properties": {
     "description": "Suburb of Goomtown",
-    "entities": ["Goomlandia"],
+    "entities": ["ent_s7c9igsq"],
     "line": "lin_i14qc3cf",
     "name": "Cattlehead",
     "wiki": "https://wiki.elgeis.com/wiki/Cattlehead"

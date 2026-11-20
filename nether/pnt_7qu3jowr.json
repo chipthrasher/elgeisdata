@@ -3,7 +3,7 @@
   "id": "pnt_7qu3jowr",
   "properties": {
     "description": "Residence of FinFaux",
-    "entities": ["Fauxford"],
+    "entities": ["ent_99obkvvl"],
     "name": "Fauxford"
   },
   "geometry": {

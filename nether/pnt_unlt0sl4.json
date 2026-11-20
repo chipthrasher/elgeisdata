@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_unlt0sl4",
   "properties": {
-    "entities": ["Redstone Valley"],
+    "entities": ["ent_k16j0vrf"],
     "name": "Redstone Valley Ocean Monument"
   },
   "geometry": {

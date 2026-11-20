@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_86uzxg2p",
   "properties": {
-    "entities": ["Wohlstand"],
+    "entities": ["ent_pm22mu14"],
     "name": "Banksy Bunker"
   },
   "geometry": {
