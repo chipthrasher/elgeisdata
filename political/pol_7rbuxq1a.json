@@ -2,8 +2,10 @@
   "type": "Feature",
   "id": "pol_7rbuxq1a",
   "properties": {
+    "name": "STRUM",
+    "label": "",
     "entities": ["ent_eg58x41r"],
-    "name": "Strahdova"
+    "notes": ""
   },
   "geometry": {
     "type": "Polygon",
