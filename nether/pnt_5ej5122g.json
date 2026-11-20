@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_5ej5122g",
   "properties": {
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "name": "Hilmirburg"
   },
   "geometry": {

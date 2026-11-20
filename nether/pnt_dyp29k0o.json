@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_dyp29k0o",
   "properties": {
-    "entities": ["STRUM"],
+    "entities": ["ent_eg58x41r"],
     "name": "HUM Pillager Farm"
   },
   "geometry": {

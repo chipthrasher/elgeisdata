@@ -4,7 +4,7 @@
   "properties": {
     "name": "Contested Territory",
     "label": "",
-    "entities": ["Vostok", "Lososha"],
+    "entities": ["ent_0068pnvf", "ent_z2fbmgte"],
     "notes": ""
   },
   "geometry": {

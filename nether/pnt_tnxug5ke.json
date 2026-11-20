@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_tnxug5ke",
   "properties": {
-    "entities": ["Wohlstand"],
+    "entities": ["ent_pm22mu14"],
     "name": "Lindisfarne"
   },
   "geometry": {

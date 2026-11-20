@@ -3,7 +3,7 @@
   "id": "pnt_wepntdog",
   "properties": {
     "description": "The first building constructed in Montrose",
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "line": "lin_fsdahv58",
     "name": "Castle Montrose",
     "national": true,

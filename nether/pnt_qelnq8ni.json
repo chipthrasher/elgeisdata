@@ -2,7 +2,7 @@
   "type": "Feature",
   "id": "pnt_qelnq8ni",
   "properties": {
-    "entities": ["Kyoato"],
+    "entities": ["ent_dwyvzf20"],
     "name": "Hightower"
   },
   "geometry": {

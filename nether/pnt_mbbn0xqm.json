@@ -3,7 +3,7 @@
   "id": "pnt_mbbn0xqm",
   "properties": {
     "description": "Now protected by Syltheim, this land features the world's largest cathedral",
-    "entities": ["Montrose"],
+    "entities": ["ent_7fj4s2t6"],
     "name": "Twiceland"
   },
   "geometry": {
