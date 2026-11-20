@@ -2,8 +2,8 @@
   "type": "Feature",
   "id": "pol_7rbuxq1a",
   "properties": {
-    "entities": ["Montrose"],
-    "name": "STRUM"
+    "entities": ["STRUM"],
+    "name": "Strahdova"
   },
   "geometry": {
     "type": "Polygon",
