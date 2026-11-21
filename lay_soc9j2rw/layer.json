@@ -1,0 +1,25 @@
+{
+  "id": "lay_soc9j2rw",
+  "description": "See what's going on in Chipt's town!",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "color",
+      "description": "What color it is on the map",
+      "key": "color",
+      "label": "Color"
+    }
+  ],
+  "name": "Chiptown",
+  "titleField": "name"
+}
