@@ -18,6 +18,7 @@
       "label": "Color"
     }
   ],
+  "hoverLines": true,
   "labelField": "name",
   "name": "Montrose",
   "titleField": "name"
