@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_7t4kn8l6",
+  "properties": {
+    "color": "#ff7b00",
+    "description": "Headquarters of the world's leading chicken producer. Factory farm? Maybe...",
+    "name": "Chipt's Famous Chicken"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1116, -510]
+  }
+}

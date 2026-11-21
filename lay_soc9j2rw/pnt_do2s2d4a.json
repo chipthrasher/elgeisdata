@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_do2s2d4a",
+  "properties": {
+    "description": "A historic landmark and IBWH site dating back to year 1 or 2. It has survived much chaos!",
+    "name": "Burger"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1152, -500]
+  }
+}

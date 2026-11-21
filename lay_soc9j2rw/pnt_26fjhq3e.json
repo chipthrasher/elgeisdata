@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_26fjhq3e",
+  "properties": {
+    "description": "est. year 3, back when this estate was named Turrentine.",
+    "name": "Chipt's House"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1030, -483]
+  }
+}

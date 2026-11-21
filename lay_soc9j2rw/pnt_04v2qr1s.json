@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_04v2qr1s",
+  "properties": {
+    "color": "#e100ff",
+    "description": "A tavern & inn sporting alcoholic drinks from across Elgeis. Rest, weary traveler!",
+    "name": "The Rabid Hen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1107, -510]
+  }
+}
