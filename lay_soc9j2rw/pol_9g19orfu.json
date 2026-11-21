@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "pol_9g19orfu",
   "properties": {
+    "color": "#ffc800",
     "description": "You will find restaurants, taverns, and even a nightclub here!",
     "name": "Dining District"
   },

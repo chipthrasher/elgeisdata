@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "pol_7iimsf6g",
   "properties": {
+    "color": "#25318e",
     "description": "Where Chipt lives",
     "name": "Residential"
   },

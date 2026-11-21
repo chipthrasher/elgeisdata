@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "pol_5tkemyy0",
   "properties": {
+    "color": "#595959",
     "name": "Wilderness"
   },
   "geometry": {

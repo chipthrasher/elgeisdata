@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "pol_l1sx2rse",
   "properties": {
+    "color": "#25318e",
     "description": "In need of some renovations!",
     "name": "Residential"
   },
