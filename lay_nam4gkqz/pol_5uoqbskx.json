@@ -2,6 +2,7 @@
   "type": "Feature",
   "id": "pol_5uoqbskx",
   "properties": {
+    "color": "#f2d307",
     "name": "Chiptown"
   },
   "geometry": {
