@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_wl29iw23",
+  "properties": {
+    "name": "Wenlock Way"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1162, -556],
+      [-1162, -517]
+    ]
+  }
+}

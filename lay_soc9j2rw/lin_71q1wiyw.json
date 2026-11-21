@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": "lin_71q1wiyw",
+  "properties": {
+    "description": "Chiptown's main thoroughfare",
+    "name": "Chiptown Way"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1258, -515],
+      [-1232, -515],
+      [-1228, -517],
+      [-1099, -516],
+      [-1068, -486],
+      [-1062, -486],
+      [-1046, -469],
+      [-1025, -469]
+    ]
+  }
+}

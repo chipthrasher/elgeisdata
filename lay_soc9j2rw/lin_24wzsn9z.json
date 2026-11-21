@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "lin_24wzsn9z",
+  "properties": {
+    "color": "#41b443",
+    "description": "Takes you to Gabeford!",
+    "name": "The Riverwalk"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1117, -516],
+      [-1117, -542],
+      [-1112, -542],
+      [-1103, -553],
+      [-1095, -564],
+      [-1085, -565],
+      [-1073, -557],
+      [-1061, -556],
+      [-1047, -557],
+      [-1033, -546],
+      [-1018, -546]
+    ]
+  }
+}

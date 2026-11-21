@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_z5ijhwr3",
+  "properties": {
+    "name": "Sunflame St"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1025, -469],
+      [-1019, -476],
+      [-1018, -554]
+    ]
+  }
+}

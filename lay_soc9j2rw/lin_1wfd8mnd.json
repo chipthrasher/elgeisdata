@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_1wfd8mnd",
+  "properties": {
+    "name": "Andervale Ave"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1029, -469],
+      [-1029, -450]
+    ]
+  }
+}
