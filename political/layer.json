@@ -1,18 +1,19 @@
 {
   "id": "political",
+  "description": "Are you an Elgeis admin? Contact Chipt & he will make you an admin here, so you can control this map! Users may make change requests, but admins can approve or reject them.",
   "dimension": "overworld",
   "fields": [
     {
       "type": "text",
+      "description": "This name shows in the directory.",
       "key": "name",
-      "label": "Directory Name",
-      "description": "This name shows in the directory."
+      "label": "Directory Name"
     },
     {
       "type": "entities",
+      "description": "Nation or other political entity. Multiple if land is contested",
       "key": "entities",
-      "label": "Political entity",
-      "description": "Nation or other political entity. Multiple if land is contested"
+      "label": "Political entity"
     },
     {
       "type": "url",
@@ -21,26 +22,24 @@
     },
     {
       "type": "text",
+      "description": "Notes are shown in the directory, and are searchable.",
       "key": "notes",
-      "label": "Notes",
-      "description": "Notes are shown in the directory, and are searchable."
+      "label": "Notes"
     },
     {
       "type": "text",
+      "description": "Normally, polygons are drawn with their entity's name",
       "key": "label",
-      "label": "Map label override",
-      "description": "Normally, polygons are drawn with their entity's name"
+      "label": "Map label override"
     },
     {
       "type": "color",
+      "description": "Normally, polygons are drawn with their entity's color",
       "key": "color",
-      "label": "Color override",
-      "description": "Normally, polygons are drawn with their entity's color"
+      "label": "Color override"
     }
   ],
+  "labelField": "label",
   "name": "Political Map",
-  "description": "Are you an Elgeis admin? Contact Chipt & he will make you an admin here, so you can control this map! Users may make change requests, but admins can approve or reject them.",
-  "official": true,
-  "titleField": "name",
-  "labelField": "label"
+  "titleField": "name"
 }
