@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_bxjs95y7",
   "properties": {
-    "name": "STRUM",
-    "label": "",
     "entities": ["ent_eg58x41r"],
+    "label": "",
+    "name": "HUM",
     "notes": ""
   },
   "geometry": {
