@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "id": "pol_t458w988",
+  "properties": {
+    "color": "#ff00ea",
+    "description": "Where Spawntaculous went missing",
+    "name": "Poop-muda Triangle"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-354, 4],
+        [-146, 4],
+        [-146, 212],
+        [-354, 4]
+      ]
+    ]
+  }
+}
