@@ -1,0 +1,24 @@
+{
+  "id": "lay_fu6xpw66",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "color",
+      "description": "What color it is on the map",
+      "key": "color",
+      "label": "Color"
+    }
+  ],
+  "name": "Montrose (Test)",
+  "titleField": "name"
+}
