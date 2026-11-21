@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_lh55g88q",
+  "properties": {
+    "name": "FlyingGMM's House"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-897, -483]
+  }
+}
