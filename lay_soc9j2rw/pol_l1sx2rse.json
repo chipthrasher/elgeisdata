@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "pol_l1sx2rse",
+  "properties": {
+    "description": "In need of some renovations!",
+    "name": "Residential"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-1165, -554],
+        [-1177, -564],
+        [-1182, -563],
+        [-1193, -552],
+        [-1203, -548],
+        [-1203, -488],
+        [-1166, -486],
+        [-1165, -554]
+      ]
+    ]
+  }
+}
