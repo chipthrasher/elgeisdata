@@ -5,7 +5,7 @@
     {
       "type": "text",
       "key": "name",
-      "label": "Name",
+      "label": "Directory Name",
       "description": "This name shows in the directory."
     },
     {
