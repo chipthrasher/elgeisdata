@@ -9,18 +9,6 @@
       "description": "This name shows in the directory."
     },
     {
-      "type": "text",
-      "key": "label",
-      "label": "Map label override",
-      "description": "Normally, polygons are drawn with their entity's name"
-    },
-    {
-      "type": "color",
-      "key": "color",
-      "label": "Color override",
-      "description": "Normally, polygons are drawn with their entity's color"
-    },
-    {
       "type": "entities",
       "key": "entities",
       "label": "Political entity",
@@ -36,6 +24,18 @@
       "key": "notes",
       "label": "Notes",
       "description": "Notes are shown in the directory, and are searchable."
+    },
+    {
+      "type": "text",
+      "key": "label",
+      "label": "Map label override",
+      "description": "Normally, polygons are drawn with their entity's name"
+    },
+    {
+      "type": "color",
+      "key": "color",
+      "label": "Color override",
+      "description": "Normally, polygons are drawn with their entity's color"
     }
   ],
   "name": "Political Map",
