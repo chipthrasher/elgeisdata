@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_qqkojfcn",
   "properties": {
-    "name": "Lososha",
-    "label": "",
     "entities": ["ent_z2fbmgte"],
+    "label": "Lososhayes",
+    "name": "Lososha",
     "notes": ""
   },
   "geometry": {
