@@ -1,0 +1,18 @@
+{
+  "id": "lay_nam4gkqz",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    }
+  ],
+  "name": "Montrose",
+  "titleField": "name"
+}
