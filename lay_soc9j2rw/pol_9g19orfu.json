@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "pol_9g19orfu",
+  "properties": {
+    "description": "You will find restaurants, taverns, and even a nightclub here!",
+    "name": "Dining District"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-1165, -554],
+        [-1166, -486],
+        [-1092, -486],
+        [-1092, -510],
+        [-1080, -522],
+        [-1113, -556],
+        [-1118, -551],
+        [-1128, -551],
+        [-1142, -564],
+        [-1151, -564],
+        [-1165, -554]
+      ]
+    ]
+  }
+}
