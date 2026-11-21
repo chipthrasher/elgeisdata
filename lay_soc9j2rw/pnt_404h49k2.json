@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_404h49k2",
+  "properties": {
+    "color": "#ffd500",
+    "description": "Takes you across Montrose and to the Hyperbelt! Transport mobs on the rails or by boat!",
+    "name": "Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1045, -476]
+  }
+}
