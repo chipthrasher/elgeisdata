@@ -39,7 +39,7 @@
     }
   ],
   "name": "Political Map",
-  "description": "The political map of Elgeis. Admins should contact Chipt to become an admin on this map!",
+  "description": "Are you an Elgeis admin? Contact Chipt & he will make you an admin here, so you can control this map! Users may make change requests, but admins can approve or reject them.",
   "official": true,
   "titleField": "name",
   "labelField": "label"
