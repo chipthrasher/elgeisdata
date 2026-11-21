@@ -6,33 +6,35 @@
       "type": "text",
       "key": "name",
       "label": "Name",
-      "description": "A nation's name, or a polygon's name in the directory"
+      "description": "This name shows in the directory."
     },
     {
       "type": "text",
       "key": "label",
-      "label": "Map label",
-      "description": "Drawn on the map instead of the polygon's political entities"
+      "label": "Map label override",
+      "description": "Normally, polygons are drawn with their entity's name"
     },
     {
       "type": "color",
       "key": "color",
-      "label": "Color"
+      "label": "Color override",
+      "description": "Normally, polygons are drawn with their entity's color"
     },
     {
       "type": "entities",
       "key": "entities",
-      "label": "Political entities"
+      "label": "Nation or other political entity. Multiple if land is contested"
     },
     {
       "type": "url",
       "key": "wiki",
-      "label": "Wiki"
+      "label": "Wiki URL"
     },
     {
       "type": "text",
       "key": "notes",
-      "label": "Notes"
+      "label": "Notes",
+      "description": "Notes are shown in the directory, and are searchable."
     }
   ],
   "name": "Political Map",
