@@ -1,6 +1,7 @@
 {
   "id": "lay_nam4gkqz",
   "defaultColor": "#ffdd00",
+  "description": "Internal map of Montrosian estates",
   "dimension": "overworld",
   "fields": [
     {
@@ -21,6 +22,6 @@
   ],
   "hoverLines": true,
   "labelField": "name",
-  "name": "Montrose",
+  "name": "Montrose (Test)",
   "titleField": "name"
 }
