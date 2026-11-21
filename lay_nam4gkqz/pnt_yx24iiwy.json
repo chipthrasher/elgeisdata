@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_yx24iiwy",
+  "properties": {
+    "description": "An IBWH site",
+    "name": "Burger"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1152, -501]
+  }
+}
