@@ -11,6 +11,11 @@
       "type": "text",
       "key": "description",
       "label": "Description"
+    },
+    {
+      "type": "color",
+      "key": "color",
+      "label": "Color"
     }
   ],
   "labelField": "name",
