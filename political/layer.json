@@ -23,7 +23,8 @@
     {
       "type": "entities",
       "key": "entities",
-      "label": "Nation or other political entity. Multiple if land is contested"
+      "label": "Political entity",
+      "description": "Nation or other political entity. Multiple if land is contested"
     },
     {
       "type": "url",
