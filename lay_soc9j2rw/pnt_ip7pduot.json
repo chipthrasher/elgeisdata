@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_ip7pduot",
+  "properties": {
+    "color": "#ffbb00",
+    "description": "A cafe & bookshop. There is free cake, served by our bakers Wheatley and Glados.",
+    "name": "The Lie"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1091, -519]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "id": "pnt_a1346b49",
+  "properties": {
+    "color": "#4296f0",
+    "description": "A Wohlstand classic, serving lamb sandwiches. In need of some restorations!",
+    "name": "Sandwich Deli"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1156, -524]
+  }
+}
