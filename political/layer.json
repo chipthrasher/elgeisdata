@@ -41,5 +41,6 @@
   ],
   "labelField": "label",
   "name": "Political Map",
+  "official": true,
   "titleField": "name"
 }
