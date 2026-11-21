@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_9d3m966v",
+  "properties": {
+    "name": "Chiptown Way"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1260, -516],
+      [-1100, -515],
+      [-1046, -468],
+      [-1025, -469]
+    ]
+  }
+}
