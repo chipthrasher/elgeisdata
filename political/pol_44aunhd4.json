@@ -2,9 +2,9 @@
   "type": "Feature",
   "id": "pol_44aunhd4",
   "properties": {
-    "name": "Contested Territory",
+    "entities": ["ent_0068pnvf", "ent_z2fbmgte", "ent_7fj4s2t6"],
     "label": "",
-    "entities": ["ent_0068pnvf", "ent_z2fbmgte"],
+    "name": "Contested Territory",
     "notes": ""
   },
   "geometry": {
