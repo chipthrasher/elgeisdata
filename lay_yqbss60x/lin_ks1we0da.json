@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_ks1we0da",
+  "properties": {
+    "name": "New Wallonia Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1043, -379],
+      [-1043, -510]
+    ]
+  }
+}
