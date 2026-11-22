@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_ejq4a7vq",
+  "properties": {
+    "description": "Montrosian Villager Production Center",
+    "name": "MVPC Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-710, -907]
+  }
+}
