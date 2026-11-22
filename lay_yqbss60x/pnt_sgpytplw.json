@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_sgpytplw",
+  "properties": {
+    "name": "Castle Montrose Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-495, -510]
+  }
+}
