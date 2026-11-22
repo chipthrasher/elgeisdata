@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_1hsa8n5s",
+  "properties": {
+    "name": "Vejākraštis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1602, -725]
+  }
+}
