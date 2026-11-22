@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_bho51v8l",
+  "properties": {
+    "name": "New Wallonia Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1043, -379]
+  }
+}
