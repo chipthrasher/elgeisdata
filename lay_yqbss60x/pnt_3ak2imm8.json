@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_3ak2imm8",
+  "properties": {
+    "name": "Gabeford Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-845, -510]
+  }
+}
