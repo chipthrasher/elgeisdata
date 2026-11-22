@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_tt8k37sj",
+  "properties": {
+    "name": "Armory Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-991, -690]
+  }
+}
