@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_wwxutsn4",
+  "properties": {
+    "name": "Gold District Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1610, -254],
+      [-1290, -254],
+      [-1290, -510]
+    ]
+  }
+}
