@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "id": "lin_cai2nfc6",
+  "properties": {
+    "name": "Armory Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-991, -690],
+      [-845, -689]
+    ]
+  }
+}
