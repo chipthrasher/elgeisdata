@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_9cxyi9jj",
+  "properties": {
+    "name": "Vejākraštis Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1602, -725]
+  }
+}
