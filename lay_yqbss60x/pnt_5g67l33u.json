@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_5g67l33u",
+  "properties": {
+    "description": "Montrosian Metallurgy Center, old west Cascadia",
+    "name": "Gold District Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1610, -254]
+  }
+}
