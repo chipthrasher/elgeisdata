@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "pnt_1cg04bkv",
+  "properties": {
+    "name": "Chiptown Metro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1043, -510]
+  }
+}
