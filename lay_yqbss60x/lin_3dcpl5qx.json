@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_3dcpl5qx",
+  "properties": {
+    "description": "Passes through Spruceville, then turns right to approach Emerald District",
+    "name": "Emerald District Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-710, -907],
+      [-845, -907],
+      [-845, -510]
+    ]
+  }
+}
