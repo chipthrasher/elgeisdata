@@ -1,6 +1,6 @@
 {
   "id": "lay_i2a97631",
-  "description": "The Fearann of Oileán na Dála",
+  "description": "The various Fearainn of Gaelia",
   "dimension": "overworld",
   "fields": [
     {
@@ -20,6 +20,6 @@
       "label": "Color"
     }
   ],
-  "name": "Oileán na Dála",
+  "name": "Fearainn of Gaelia",
   "titleField": "name"
 }
