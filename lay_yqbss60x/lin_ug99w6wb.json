@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "id": "lin_ug99w6wb",
+  "properties": {
+    "name": "Main Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-495, -510],
+      [-1602, -510],
+      [-1602, -725]
+    ]
+  }
+}
