@@ -1,5 +1,6 @@
 {
   "id": "political",
+  "base": true,
   "description": "Are you an Elgeis admin? Contact Chipt & he will make you an admin here, so you can control this map! Users may make change requests, but admins can approve or reject them.",
   "dimension": "overworld",
   "fields": [
