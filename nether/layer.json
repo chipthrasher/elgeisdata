@@ -64,5 +64,6 @@
   ],
   "name": "Nether Highway",
   "official": true,
+  "startsOff": true,
   "titleField": "name"
 }
