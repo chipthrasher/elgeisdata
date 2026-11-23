@@ -1,0 +1,25 @@
+{
+  "id": "lay_ies1uftl",
+  "description": "The original Ríochtaí na nGael from 2019",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "color",
+      "description": "What color it is on the map",
+      "key": "color",
+      "label": "Color"
+    }
+  ],
+  "name": "Ríochtaí na nGael (2019)",
+  "titleField": "name"
+}
