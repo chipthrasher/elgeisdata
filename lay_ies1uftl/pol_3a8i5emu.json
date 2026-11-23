@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "id": "pol_3a8i5emu",
+  "properties": {
+    "color": "#e13737",
+    "description": "Ancient Gaelic settlement of the player AnMadadhRua",
+    "name": "Coill na Lochán"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-764, -108],
+        [-773, -96],
+        [-780, -81],
+        [-781, -65],
+        [-778, -50],
+        [-771, -42],
+        [-759, -34],
+        [-745, -33],
+        [-731, -35],
+        [-714, -49],
+        [-700, -70],
+        [-700, -85],
+        [-702, -101],
+        [-708, -113],
+        [-718, -122],
+        [-731, -123],
+        [-745, -121],
+        [-764, -108]
+      ]
+    ]
+  }
+}
