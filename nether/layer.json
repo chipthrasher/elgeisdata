@@ -62,6 +62,7 @@
       "label": "Main line"
     }
   ],
+  "hoverLines": true,
   "name": "Nether Highway",
   "official": true,
   "titleField": "name"
