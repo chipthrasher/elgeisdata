@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "id": "pol_a3zer717",
+  "properties": {
+    "color": "#ffeb82",
+    "description": "State Land 9",
+    "name": "Hojian Suherthun"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-1317, -320],
+        [-1317, -298],
+        [-1298, -297],
+        [-1296, -299],
+        [-1296, -319],
+        [-1317, -320]
+      ]
+    ]
+  }
+}
