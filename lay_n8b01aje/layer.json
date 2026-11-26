@@ -1,0 +1,25 @@
+{
+  "id": "lay_n8b01aje",
+  "description": "The administrative regions of Montrose (26-5-8)",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "color",
+      "description": "What color it is on the map",
+      "key": "color",
+      "label": "Color"
+    }
+  ],
+  "name": "Montrosian Regions",
+  "titleField": "name"
+}
