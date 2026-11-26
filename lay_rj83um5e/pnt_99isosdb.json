@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_99isosdb",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Sternmark"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2701, -261]
+  }
+}

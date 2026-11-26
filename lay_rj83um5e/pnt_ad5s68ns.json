@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_ad5s68ns",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Goomtown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [445, -212]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_xeh8cr46",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "End Portal"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1545, -2142]
+  }
+}

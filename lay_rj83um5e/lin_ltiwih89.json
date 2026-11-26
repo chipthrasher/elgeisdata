@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_ltiwih89",
+  "properties": {
+    "color": "#9fc0f0",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Melt Line: Echo-Point spur"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1259, 3132],
+      [-1259, 3243]
+    ]
+  }
+}

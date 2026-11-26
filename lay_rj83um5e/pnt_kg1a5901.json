@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_kg1a5901",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Arcadia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-398, -1391]
+  }
+}

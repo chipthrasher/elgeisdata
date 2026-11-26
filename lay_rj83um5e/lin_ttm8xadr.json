@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_ttm8xadr",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: End Portal branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1545, -2142],
+      [-1545, -1418]
+    ]
+  }
+}

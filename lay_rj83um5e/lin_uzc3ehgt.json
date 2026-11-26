@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "id": "lin_uzc3ehgt",
+  "properties": {
+    "color": "#ff77ff",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Freedom Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1468, -237],
+      [-1468, 915],
+      [-1496, 915],
+      [-1496, 1867]
+    ]
+  }
+}

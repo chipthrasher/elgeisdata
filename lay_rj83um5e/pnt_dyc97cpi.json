@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_dyc97cpi",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "New Emeraldia (Southern Line east)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1933, 4372]
+  }
+}

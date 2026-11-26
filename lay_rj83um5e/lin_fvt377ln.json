@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "id": "lin_fvt377ln",
+  "properties": {
+    "color": "#f0902a",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Pago Pagou Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [196, 890],
+      [222, 890],
+      [222, 935],
+      [222, 998],
+      [256, 998],
+      [775, 998],
+      [775, 997],
+      [775, 1366],
+      [776, 1366],
+      [1083, 1366],
+      [1083, 1365],
+      [1083, 1425],
+      [1084, 1425],
+      [1200, 1425]
+    ]
+  }
+}

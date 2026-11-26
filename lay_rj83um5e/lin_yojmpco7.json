@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "id": "lin_yojmpco7",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Winterfell branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1901, -1412],
+      [-1901, -1143],
+      [-1901, -261],
+      [-1901, 85]
+    ]
+  }
+}

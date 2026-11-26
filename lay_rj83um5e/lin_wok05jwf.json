@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_wok05jwf",
+  "properties": {
+    "color": "#f0902a",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Pago Pagou Line: Iskallia spur"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [735, 1042],
+      [775, 1042]
+    ]
+  }
+}

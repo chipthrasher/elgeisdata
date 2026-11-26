@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_6dx1s226",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Montrose"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-431, -620]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "id": "lin_g60r717a",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Montrose branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-431, -261],
+      [-431, -620],
+      [300, -620]
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_8vbpedxw",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Grove Tribe branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [918, 183],
+      [1438, 183]
+    ]
+  }
+}

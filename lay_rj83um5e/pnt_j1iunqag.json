@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_j1iunqag",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Ebonglow Nexus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1926, 3312]
+  }
+}

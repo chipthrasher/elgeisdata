@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "id": "lin_6r5x9jyi",
+  "properties": {
+    "color": "#3d7be0",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "R-Helt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-790, -323],
+      [-374, -323],
+      [-374, 268],
+      [-373, 268],
+      [-373, 1215],
+      [-399, 1215],
+      [1551, 1215],
+      [1551, 1580]
+    ]
+  }
+}

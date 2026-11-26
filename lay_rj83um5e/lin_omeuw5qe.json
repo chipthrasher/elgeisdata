@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": "lin_omeuw5qe",
+  "properties": {
+    "color": "#e01b22",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Supermar Line: Obios loop"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-422, 2744],
+      [-422, 2925],
+      [-142, 2925],
+      [-142, 2928],
+      [-142, 2743]
+    ]
+  }
+}

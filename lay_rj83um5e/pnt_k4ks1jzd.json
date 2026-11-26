@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_k4ks1jzd",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Grove Tribe"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [1438, 183]
+  }
+}

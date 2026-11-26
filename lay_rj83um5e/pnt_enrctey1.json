@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_enrctey1",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Balandis City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1468, 915]
+  }
+}

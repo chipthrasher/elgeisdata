@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_f3irgpj2",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Ecliptaris Prime"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1613, 3261]
+  }
+}

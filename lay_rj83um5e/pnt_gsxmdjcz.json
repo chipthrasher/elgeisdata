@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_gsxmdjcz",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Voidnest"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [300, -719]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_emnpwxsc",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "The Queen's Station"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-860, 3060]
+  }
+}

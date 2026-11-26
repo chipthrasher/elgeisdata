@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_cxpblkd6",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Okej Memorial Station"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2341, 2507]
+  }
+}

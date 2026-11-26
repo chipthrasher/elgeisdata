@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": "lin_s6z1lbv0",
+  "properties": {
+    "color": "#21682c",
+    "description": "Newline. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Southern Line: east"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-2340, 3311],
+      [-2340, 3930],
+      [-2256, 3930],
+      [-2256, 4372],
+      [-1933, 4372]
+    ]
+  }
+}

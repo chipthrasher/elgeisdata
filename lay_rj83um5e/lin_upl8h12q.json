@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "id": "lin_upl8h12q",
+  "properties": {
+    "color": "#02008c",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "ThePolg Memorial Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [445, 1538],
+      [445, 2733],
+      [322, 2733]
+    ]
+  }
+}

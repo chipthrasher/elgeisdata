@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_6ncj9uer",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Llyne branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1035, -1836],
+      [-1035, -1442]
+    ]
+  }
+}

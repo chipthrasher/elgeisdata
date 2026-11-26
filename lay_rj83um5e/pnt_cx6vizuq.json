@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_cx6vizuq",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Kovska"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [1595, -1076]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_cd40ecm2",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Wooklandia"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2625, 101]
+  }
+}

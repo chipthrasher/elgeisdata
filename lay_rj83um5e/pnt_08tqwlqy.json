@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_08tqwlqy",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "East End Portal"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [1910, -196]
+  }
+}

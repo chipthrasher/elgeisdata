@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "id": "lin_7dilt7je",
+  "properties": {
+    "color": "#22ee2a",
+    "description": "Newline. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Emeraldian Shinsen"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-3717, 3322],
+      [-3269, 3322],
+      [-3269, 3301],
+      [-2340, 3301],
+      [-2340, 3311],
+      [-1926, 3311],
+      [-1926, 3312]
+    ]
+  }
+}

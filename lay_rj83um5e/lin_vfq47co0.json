@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": "lin_vfq47co0",
+  "properties": {
+    "color": "#7cf07c",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "E-belt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-2341, 2507],
+      [-2341, 2870],
+      [-2338, 2870],
+      [-2338, 3311],
+      [-2340, 3311]
+    ]
+  }
+}

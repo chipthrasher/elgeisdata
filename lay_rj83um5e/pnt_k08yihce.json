@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_k08yihce",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Winterfell"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1901, 85]
+  }
+}

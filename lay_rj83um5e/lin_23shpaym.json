@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_23shpaym",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Fianna branch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [157, 330],
+      [445, 330]
+    ]
+  }
+}

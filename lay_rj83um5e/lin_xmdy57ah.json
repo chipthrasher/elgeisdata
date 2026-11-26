@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "id": "lin_xmdy57ah",
+  "properties": {
+    "color": "#eab726",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "West Sea End-Portal line (unlabelled)"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-922, 1986],
+      [-922, 2661],
+      [-262, 2661]
+    ]
+  }
+}

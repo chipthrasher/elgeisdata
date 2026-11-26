@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_h29638dt",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Igpay Obiosway"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-422, 2925]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_6xiourcr",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "West Sea End-Portal"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-922, 1986]
+  }
+}

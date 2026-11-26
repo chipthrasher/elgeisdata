@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": "lin_zacldzaq",
+  "properties": {
+    "color": "#0d963a",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "GATOR6686 Memorial Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [315, -2334],
+      [315, -1971],
+      [310, -1971],
+      [300, -1971],
+      [300, -1391]
+    ]
+  }
+}

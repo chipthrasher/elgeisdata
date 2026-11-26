@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_3vbvi1mb",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "R-Helt east terminus"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [1551, 1580]
+  }
+}

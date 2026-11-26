@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_xwne4ufc",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Esea Temple"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2256, 3930]
+  }
+}

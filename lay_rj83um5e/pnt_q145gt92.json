@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_q145gt92",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Doges"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-909, 268]
+  }
+}

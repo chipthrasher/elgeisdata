@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "id": "lin_18hdv28s",
+  "properties": {
+    "color": "#08082a",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Okej–La Nordomontoj line (unlabelled)"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-2341, 2507],
+      [-262, 2507],
+      [-262, 2661]
+    ]
+  }
+}

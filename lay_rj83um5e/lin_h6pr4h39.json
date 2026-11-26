@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": "lin_h6pr4h39",
+  "properties": {
+    "color": "#9fc0f0",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Melt Line: Gatorland spur"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1749, 3312],
+      [-1749, 3414]
+    ]
+  }
+}

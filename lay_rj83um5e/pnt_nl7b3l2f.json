@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_nl7b3l2f",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Sparkytown"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [918, 835]
+  }
+}

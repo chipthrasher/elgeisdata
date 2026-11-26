@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "id": "lin_mbx1a7tp",
+  "properties": {
+    "color": "#9fc0f0",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Melt Line: western line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-816, 3128],
+      [-1499, 3128],
+      [-1499, 3132],
+      [-1499, 3192],
+      [-1499, 3261],
+      [-1613, 3261],
+      [-1613, 3312],
+      [-1749, 3312],
+      [-1926, 3312]
+    ]
+  }
+}

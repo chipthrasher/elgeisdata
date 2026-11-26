@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "id": "lin_hjsbb67r",
+  "properties": {
+    "color": "#e01b22",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Supermar Line: main"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-2338, 2870],
+      [-2338, 2507],
+      [-2341, 2507],
+      [-1496, 2507],
+      [-368, 2507],
+      [-368, 2743],
+      [-334, 2743],
+      [-262, 2743],
+      [322, 2743],
+      [322, 2733],
+      [932, 2733],
+      [932, 2741]
+    ]
+  }
+}

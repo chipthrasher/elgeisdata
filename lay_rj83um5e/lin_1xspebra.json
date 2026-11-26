@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "id": "lin_1xspebra",
+  "properties": {
+    "color": "#343b4b",
+    "description": "Superbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Groege Dumb Line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-319, -197],
+      [445, -197],
+      [445, -212]
+    ]
+  }
+}

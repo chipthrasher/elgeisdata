@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_p6q17zpe",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Schenektengrad"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [434, 1538]
+  }
+}

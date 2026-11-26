@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_ahtzwi2n",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Gatorland"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1749, 3414]
+  }
+}

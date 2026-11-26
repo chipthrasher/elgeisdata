@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_mf5bp14q",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "ERF"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2358, 4160]
+  }
+}

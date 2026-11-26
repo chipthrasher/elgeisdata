@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "id": "lin_o08vwh8o",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Sparkytown line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [918, -1362],
+      [918, -261],
+      [918, -196],
+      [918, 183],
+      [918, 835]
+    ]
+  }
+}

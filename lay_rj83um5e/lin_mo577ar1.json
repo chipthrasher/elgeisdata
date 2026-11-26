@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "id": "lin_mo577ar1",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: northern line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1901, -1412],
+      [-1035, -1412],
+      [-1035, -1442],
+      [-969, -1442],
+      [-398, -1442],
+      [-398, -1391],
+      [300, -1391],
+      [794, -1391],
+      [794, -1362],
+      [1595, -1362],
+      [1595, -1076]
+    ]
+  }
+}

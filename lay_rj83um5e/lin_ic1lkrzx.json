@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "id": "lin_ic1lkrzx",
+  "properties": {
+    "color": "#000000",
+    "description": "Hyperbelt. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Main Line: Goomtown trunk"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [300, -1391],
+      [300, -719],
+      [300, -620],
+      [300, -212],
+      [445, -212],
+      [445, 330],
+      [445, 1538],
+      [434, 1538]
+    ]
+  }
+}

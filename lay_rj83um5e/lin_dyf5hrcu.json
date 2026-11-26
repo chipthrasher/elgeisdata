@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "id": "lin_dyf5hrcu",
+  "properties": {
+    "color": "#9718ca",
+    "description": "Newline. Route traced from the map: stations and turns are right, the exact track between them is approximate.",
+    "name": "Hyperlink"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-1366, -237],
+      [-1366, 3261],
+      [-1359, 3261],
+      [-1613, 3261]
+    ]
+  }
+}

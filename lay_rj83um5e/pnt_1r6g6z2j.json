@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_1r6g6z2j",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Prosperapolis (R-Helt)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-374, -285]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_2gjyyvvc",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Prosperapolis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-319, -197]
+  }
+}

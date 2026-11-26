@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_xc3qkru6",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Sanjoseint"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [196, 890]
+  }
+}

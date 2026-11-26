@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_5yl1gdsf",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Saru"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1496, 1867]
+  }
+}

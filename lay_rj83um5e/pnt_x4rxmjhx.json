@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_x4rxmjhx",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Obios City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-334, 2743]
+  }
+}

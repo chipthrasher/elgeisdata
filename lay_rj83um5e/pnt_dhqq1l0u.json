@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_dhqq1l0u",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Islesburgh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2340, 3311]
+  }
+}

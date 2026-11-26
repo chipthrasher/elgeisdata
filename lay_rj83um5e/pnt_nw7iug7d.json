@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_nw7iug7d",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Saikyo"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3269, 3301]
+  }
+}

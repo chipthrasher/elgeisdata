@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_oxocep8g",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Church"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [310, -1971]
+  }
+}

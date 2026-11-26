@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_8qlj5va4",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Stradova"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [794, -1362]
+  }
+}

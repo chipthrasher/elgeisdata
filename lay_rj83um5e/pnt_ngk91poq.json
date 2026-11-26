@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_ngk91poq",
+  "properties": {
+    "description": "Position read off the map, accurate to about 50 blocks",
+    "name": "Obios Station"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [322, 2733]
+  }
+}

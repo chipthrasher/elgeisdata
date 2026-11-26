@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_h943c0fe",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Llyne"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1035, -1836]
+  }
+}

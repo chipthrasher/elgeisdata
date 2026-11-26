@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "pnt_1skfpxg6",
+  "properties": {
+    "description": "Coordinates as labelled on the map",
+    "name": "Fianna"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [157, 330]
+  }
+}
