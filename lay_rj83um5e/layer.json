@@ -1,0 +1,25 @@
+{
+  "id": "lay_rj83um5e",
+  "description": "The Hyperbelt, Superbelt and Newline transit lines and their stations",
+  "dimension": "overworld",
+  "fields": [
+    {
+      "type": "text",
+      "key": "name",
+      "label": "Name"
+    },
+    {
+      "type": "text",
+      "key": "description",
+      "label": "Description"
+    },
+    {
+      "type": "color",
+      "description": "What color it is on the map",
+      "key": "color",
+      "label": "Color"
+    }
+  ],
+  "name": "HyperBelt",
+  "titleField": "name"
+}
